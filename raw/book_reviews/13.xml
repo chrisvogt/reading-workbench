@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>656275865</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">13</id>
+  <isbn>0345453743</isbn>
+  <isbn13>9780345453747</isbn13>
+  <text_reviews_count type="integer">4668</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ubWyA90qbGfTQjOvsAqckg</uri>
+  <title>The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)</title>
+  <title_without_series>The Ultimate Hitchhiker's Guide to the Galaxy</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404613595l/13._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404613595l/13._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy</link>
+  <num_pages>815</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Del Rey Books</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.37</average_rating>
+  <ratings_count>308746</ratings_count>
+  <description>At last in paperback in one complete volume, here are the five novels from Douglas Adams's Hitchhiker series. &lt;br /&gt;&lt;br /&gt;"The Hitchhiker's Guide to the Galaxy"&lt;br /&gt;&lt;br /&gt;Seconds before the Earth is demolished for a galactic freeway, Arthur Dent is saved by Ford Prefect, a researcher for the revised Guide. Together they stick out their thumbs to the stars and begin a wild journey through time and space.&lt;br /&gt;&lt;br /&gt;"The Restaurant at the End of the Universe"&lt;br /&gt;&lt;br /&gt;Facing annihilation at the hands of warmongers is a curious time to crave tea. It could only happen to the cosmically displaced Arthur Dent and his comrades as they hurtle across the galaxy in a desperate search for a place to eat.&lt;br /&gt;&lt;br /&gt;"Life, the Universe and Everything"&lt;br /&gt;&lt;br /&gt;The unhappy inhabitants of planet Krikkit are sick of looking at the night sky- so they plan to destroy it. The universe, that is. Now only five individuals can avert Armageddon: mild-mannered Arthur Dent and his stalwart crew.&lt;br /&gt;&lt;br /&gt;"So Long, and Thanks for All the Fish"&lt;br /&gt;&lt;br /&gt;Back on Earth, Arthur Dent is ready to believe that the past eight years were all just a figment of his stressed-out imagination. But a gift-wrapped fishbowl with a cryptic inscription conspires to thrust him back to reality. So to speak.&lt;br /&gt;&lt;br /&gt;"Mostly Harmless"&lt;br /&gt;&lt;br /&gt;Just when Arthur Dent makes the terrible mistake of starting to enjoy life, all hell breaks loose. Can he save the Earth from total obliteration? Can he save the Guide from a hostile alien takeover? Can he save his daughter from herself?&lt;br /&gt;&lt;br /&gt;Also includes the short story "Young Zaphod Plays It Safe".</description>
+<authors>
+<author>
+<id>4</id>
+<name>Douglas Adams</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1616277702p5/4.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1616277702p2/4.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4.Douglas_Adams]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>3124809</ratings_count>
+<text_reviews_count>73214</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>135328</id>
+  <uri>kca://work/amzn1.gr.work.v1.-p7Rr2uVlyEzIFyOYoG3Xw</uri>
+</work></book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">73155163</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jul 01 16:01:33 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 01 16:01:33 -0700 2013</date_added>
+  <date_updated>Mon Jul 01 16:01:41 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/656275865]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/656275865]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2177685414</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">25451264</id>
+  <isbn>0765377101</isbn>
+  <isbn13>9780765377104</isbn13>
+  <text_reviews_count type="integer">5225</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.S11pumuenGa1z0XCFh7ZGA</uri>
+  <title>Death's End (Remembrance of Earth’s Past, #3)</title>
+  <title_without_series>Death's End</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430330507l/25451264._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25451264-death-s-end</link>
+  <num_pages>604</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>TOR</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.42</average_rating>
+  <ratings_count>77089</ratings_count>
+  <description>With The Three-Body Problem, English-speaking readers got their first chance to experience the multiple-award-winning and bestselling Three-Body Trilogy by China's most beloved science fiction author, Cixin Liu. Three-Body was released to great acclaim including coverage in The New York Times and The Wall Street Journal. It was also named a finalist for the Nebula Award, making it the first translated novel to be nominated for a major SF award since Italo Calvino's Invisible Cities in 1976.&lt;br /&gt;&lt;br /&gt;Now this epic trilogy concludes with Death's End. Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.&lt;br /&gt;&lt;br /&gt;Cheng Xin, an aerospace engineer from the early 21st century, awakens from hibernation in this new age. She brings with her knowledge of a long-forgotten program dating from the beginning of the Trisolar Crisis, and her very presence may upset the delicate balance between two worlds. Will humanity reach for the stars or die in its cradle?&lt;br /&gt;&lt;br /&gt;Ein halbes Jahrhundert nach der Entscheidungsschlacht hält der Waffenstillstand mit den Trisolariern immer noch stand. Die Hochtechnologie der Außerirdischen hat der Erde zu neuem Wohlstand verholfen, auch die Trisolarier haben dazugelernt, und eine friedliche Koexistenz scheint möglich. Der Frieden hat die Menschheit allerdings unvorsichtig werden lassen. Als mit Cheng Xin eine Raumfahrtingenieurin des 21. Jahrhunderts aus dem Kälteschlaf erwacht, bringt sie das Wissen um ein längst vergangenes Geheimprogramm in die neue Zeit. Wird die junge Frau den Frieden mit Trisolaris ins Wanken bringen – oder wird die Menschheit die letzte Chance ergreifen, sich weiterzuentwickeln?</description>
+<authors>
+<author>
+<id>5780686</id>
+<name>Liu Cixin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454974329p5/5780686.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454974329p2/5780686.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5780686.Liu_Cixin]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>448844</ratings_count>
+<text_reviews_count>43016</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>18520265</id>
+  <uri>kca://work/amzn1.gr.work.v1.rlL_-URWMdxBH9SmRjqnXw</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">154025135</id>
+          <page type="integer">568</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Dec 21 09:01:23 -0800 2017</created_at>
+          <updated_at type="datetime">Thu Dec 21 09:01:23 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">94</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">153868978</id>
+          <page type="integer">535</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Dec 19 19:08:40 -0800 2017</created_at>
+          <updated_at type="datetime">Tue Dec 19 19:08:40 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">88</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">153814880</id>
+          <page type="integer">520</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Dec 19 08:43:42 -0800 2017</created_at>
+          <updated_at type="datetime">Tue Dec 19 08:43:42 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">86</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">152794042</id>
+          <page type="integer">458</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Dec 08 09:29:17 -0800 2017</created_at>
+          <updated_at type="datetime">Fri Dec 08 09:29:17 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">75</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">152698935</id>
+          <page type="integer">438</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Dec 07 08:34:06 -0800 2017</created_at>
+          <updated_at type="datetime">Thu Dec 07 08:34:06 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">72</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">152081741</id>
+          <page type="integer">388</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 30 18:06:15 -0800 2017</created_at>
+          <updated_at type="datetime">Thu Nov 30 18:06:15 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">64</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">151290850</id>
+          <page type="integer">280</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Nov 22 09:02:15 -0800 2017</created_at>
+          <updated_at type="datetime">Wed Nov 22 09:02:15 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">46</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">151247998</id>
+          <page type="integer">236</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Nov 21 20:10:11 -0800 2017</created_at>
+          <updated_at type="datetime">Tue Nov 21 20:10:11 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">39</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">151190253</id>
+          <page type="integer">182</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Nov 21 08:39:35 -0800 2017</created_at>
+          <updated_at type="datetime">Tue Nov 21 08:39:35 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">30</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">151087380</id>
+          <page type="integer">160</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 20 09:20:07 -0800 2017</created_at>
+          <updated_at type="datetime">Mon Nov 20 09:20:07 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">26</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">151042613</id>
+          <page type="integer">147</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Nov 19 20:39:42 -0800 2017</created_at>
+          <updated_at type="datetime">Sun Nov 19 20:39:42 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">24</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">150806789</id>
+          <page type="integer">121</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 17 08:17:42 -0800 2017</created_at>
+          <updated_at type="datetime">Fri Nov 17 08:17:42 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">20</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">150713855</id>
+          <page type="integer">94</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 16 08:38:41 -0800 2017</created_at>
+          <updated_at type="datetime">Thu Nov 16 08:38:41 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">15</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">150504374</id>
+          <page type="integer">60</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Nov 14 07:54:39 -0800 2017</created_at>
+          <updated_at type="datetime">Tue Nov 14 07:54:39 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">9</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">150120850</id>
+          <page type="integer">35</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 10 09:29:41 -0800 2017</created_at>
+          <updated_at type="datetime">Fri Nov 10 09:29:41 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">5</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">149881289</id>
+          <page type="integer">17</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Nov 07 20:55:00 -0800 2017</created_at>
+          <updated_at type="datetime">Tue Nov 07 20:55:00 -0800 2017</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">2</percent>
+          <work_id type="integer">18520265</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">2128848417</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Dec 21 16:22:20 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">2072005481</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Nov 07 20:54:44 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264312666' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Nov 07 00:00:00 -0800 2017</started_at>
+  <read_at>Thu Dec 21 00:00:00 -0800 2017</read_at>
+  <date_added>Tue Nov 07 20:54:43 -0800 2017</date_added>
+  <date_updated>Fri Dec 07 20:29:22 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2177685414]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2177685414]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

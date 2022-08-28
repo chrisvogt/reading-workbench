@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>1360651940</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">296662</id>
+  <isbn>0684818868</isbn>
+  <isbn13>9780684818863</isbn13>
+  <text_reviews_count type="integer">2690</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.QKY2Az2dc5V0pSAN7yNyAw</uri>
+  <title>Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong</title>
+  <title_without_series>Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/296662.Lies_My_Teacher_Told_Me</link>
+  <num_pages>383</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Touchstone Books/Simon &amp; Schuster, Inc.</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>65494</ratings_count>
+  <description>Unabridged, 9 audiocassettes, 14 hours 45 minutes&lt;br /&gt;_______________&lt;br /&gt;This national best-seller is an entertaining, informative, and sometimes shocking expose of the way history is taught to American students. &lt;i&gt;Lies My Teacher Told Me&lt;/i&gt; won the American Book Award and the Oliver Cromwell Cox Award for Distinguished Anti-Racist Scholarship.&lt;br /&gt;&lt;br /&gt;James W. Loewen, a sociology professor and distinguished critic of history education, puts 12 popular textbooks under the microscope-and what he discovers will surprise you. In his opinion, every one of these texts fails to make its subject interesting or memorable. Worse still is the proliferation of blind patriotism, mindless optimism and misinformation filling the pages.&lt;br /&gt;&lt;br /&gt;From the truth about Christopher Columbus to the harsh reality of the Vietnam War, Loewen picks apart the lies we've been told. This audiobook, narrated by Brian Keeler (&lt;i&gt;The Hurricane&lt;/i&gt;, "All My Children") will forever change your view of the past.</description>
+<authors>
+<author>
+<id>8458</id>
+<name>James W. Loewen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201179473p5/8458.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201179473p2/8458.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8458.James_W_Loewen]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>71837</ratings_count>
+<text_reviews_count>4145</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>15653</id>
+  <uri>kca://work/amzn1.gr.work.v1.TxHqOt1nxygrv_qGJPK1hg</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">73639807</id>
+          <page type="integer">239</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Aug 14 22:30:35 -0700 2015</created_at>
+          <updated_at type="datetime">Fri Aug 14 22:30:35 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">15653</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">73633320</id>
+          <page type="integer">201</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Aug 14 20:23:07 -0700 2015</created_at>
+          <updated_at type="datetime">Fri Aug 14 20:23:07 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">15653</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">73566247</id>
+          <page type="integer">172</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 13 21:53:37 -0700 2015</created_at>
+          <updated_at type="datetime">Thu Aug 13 21:53:37 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">44</percent>
+          <work_id type="integer">15653</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">73544040</id>
+          <page type="integer">144</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 13 15:49:20 -0700 2015</created_at>
+          <updated_at type="datetime">Thu Aug 13 15:49:20 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">37</percent>
+          <work_id type="integer">15653</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">73486150</id>
+          <page type="integer">126</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Aug 12 21:18:43 -0700 2015</created_at>
+          <updated_at type="datetime">Wed Aug 12 21:18:43 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">32</percent>
+          <work_id type="integer">15653</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">73472683</id>
+          <page type="integer">106</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Aug 12 18:13:00 -0700 2015</created_at>
+          <updated_at type="datetime">Wed Aug 12 18:13:00 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">27</percent>
+          <work_id type="integer">15653</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">73466727</id>
+          <page type="integer">86</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Aug 12 16:27:51 -0700 2015</created_at>
+          <updated_at type="datetime">Wed Aug 12 16:27:51 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">22</percent>
+          <work_id type="integer">15653</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">73418602</id>
+          <page type="integer">66</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Aug 12 02:41:46 -0700 2015</created_at>
+          <updated_at type="datetime">Wed Aug 12 02:41:46 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">17</percent>
+          <work_id type="integer">15653</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">73379886</id>
+          <page type="integer">42</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Aug 11 15:01:41 -0700 2015</created_at>
+          <updated_at type="datetime">Tue Aug 11 15:01:41 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">10</percent>
+          <work_id type="integer">15653</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">73322826</id>
+          <page type="integer">22</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 10 21:30:00 -0700 2015</created_at>
+          <updated_at type="datetime">Mon Aug 10 21:30:00 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">5</percent>
+          <work_id type="integer">15653</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">972024192</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Aug 16 15:58:45 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">965376529</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Aug 10 21:29:54 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264339733' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Aug 10 21:29:54 -0700 2015</started_at>
+  <read_at>Sun Aug 16 15:58:48 -0700 2015</read_at>
+  <date_added>Mon Aug 10 21:29:54 -0700 2015</date_added>
+  <date_updated>Fri Dec 07 21:08:32 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1360651940]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1360651940]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

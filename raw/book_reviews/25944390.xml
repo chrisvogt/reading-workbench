@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>3204730620</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">25944390</id>
+  <isbn>0062449923</isbn>
+  <isbn13>9780062449924</isbn13>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.9jyHq9kA3Uhiad5R2ympSg</uri>
+  <title>The Paradox of Choice: Why More Is Less, Revised Edition</title>
+  <title_without_series>The Paradox of Choice: Why More Is Less, Revised Edition</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444889420l/25944390._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444889420l/25944390._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25944390-the-paradox-of-choice</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ecco</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>32686</ratings_count>
+  <description>In the spirit of Alvin Tofflers' Future Shock, a social critique of our obsession with choice, and how it contributes to anxiety, dissatisfaction and regret.&lt;br /&gt;&lt;br /&gt;Whether were buying a pair of jeans, ordering a cup of coffee, selecting a long-distance carrier, applying to college, choosing a doctor, or setting up a 401(k), everyday decisions - both big and small - have become increasingly complex due to the overwhelming abundance of choice with which we are presented.&lt;br /&gt;&lt;br /&gt;We assume that more choice means better options and greater satisfaction. But beware of excessive choice: choice overload can make you question the decisions you make before you even make them, it can set you up for unrealistically high expectations, and it can make you blame yourself for any and all failures. In the long run, this can lead to decision-making paralysis, anxiety, and perpetual stress. And, in a culture that tells us that there is no excuse for falling short of perfection when your options are limitless, too much choice can lead to clinical depression.&lt;br /&gt;&lt;br /&gt;In The Paradox of Choice, Barry Schwartz explains at what point choice - the hallmark of individual freedom and self-determination that we so cherish - becomes detrimental to our psychological and emotional well-being. In accessible, engaging, and anecdotal prose, Schwartz shows how the dramatic explosion in choice--from the mundane to the profound challenges of balancing career, family, and individual needs--has paradoxically become a problem instead of a solution. Schwartz also shows how our obsession with choice encourages us to seek that which makes us feel worse.</description>
+<authors>
+<author>
+<id>6957</id>
+<name>Barry Schwartz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1250394365p5/6957.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1250394365p2/6957.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6957.Barry_Schwartz]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>35493</ratings_count>
+<text_reviews_count>2148</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>1157840</id>
+  <uri>kca://work/amzn1.gr.work.v1.6vD_gmLLdorf0rRDidP4MQ</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">290758234</id>
+          <page type="integer">221</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jun 10 08:14:26 -0700 2020</created_at>
+          <updated_at type="datetime">Wed Jun 10 08:14:26 -0700 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">83</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">290539225</id>
+          <page type="integer">204</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jun 09 08:39:01 -0700 2020</created_at>
+          <updated_at type="datetime">Tue Jun 09 08:39:01 -0700 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">76</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">283548416</id>
+          <page type="integer">181</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 08 10:18:09 -0700 2020</created_at>
+          <updated_at type="datetime">Fri May 08 10:18:09 -0700 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">68</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">277357408</id>
+          <page type="integer">167</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Apr 11 13:20:01 -0700 2020</created_at>
+          <updated_at type="datetime">Sat Apr 11 13:20:01 -0700 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">63</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">272265977</id>
+          <page type="integer">153</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Mar 19 12:00:02 -0700 2020</created_at>
+          <updated_at type="datetime">Thu Mar 19 12:00:02 -0700 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">57</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">269177937</id>
+          <page type="integer">120</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Mar 02 12:22:25 -0800 2020</created_at>
+          <updated_at type="datetime">Mon Mar 02 12:22:25 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">45</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">268607150</id>
+          <page type="integer">104</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Feb 28 07:40:47 -0800 2020</created_at>
+          <updated_at type="datetime">Fri Feb 28 07:40:47 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">39</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">268471184</id>
+          <page type="integer">93</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Feb 27 12:29:51 -0800 2020</created_at>
+          <updated_at type="datetime">Thu Feb 27 12:29:51 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">35</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">268136277</id>
+          <page type="integer">65</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Feb 25 17:08:12 -0800 2020</created_at>
+          <updated_at type="datetime">Tue Feb 25 17:08:12 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">24</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">268086198</id>
+          <page type="integer">52</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Feb 25 12:13:22 -0800 2020</created_at>
+          <updated_at type="datetime">Tue Feb 25 12:13:22 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">19</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">268046550</id>
+          <page type="integer">35</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Feb 25 07:59:41 -0800 2020</created_at>
+          <updated_at type="datetime">Tue Feb 25 07:59:41 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">13</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">267922396</id>
+          <page type="integer">24</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Feb 24 15:47:41 -0800 2020</created_at>
+          <updated_at type="datetime">Mon Feb 24 15:47:41 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">9</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">267838452</id>
+          <page type="integer">12</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Feb 24 07:38:58 -0800 2020</created_at>
+          <updated_at type="datetime">Mon Feb 24 07:38:58 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">1157840</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">3694764452</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Jun 23 22:30:47 -0700 2020</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">3425994720</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Feb 24 07:38:40 -0800 2020</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 24 07:38:40 -0800 2020</started_at>
+  <read_at>Tue Jun 23 22:30:47 -0700 2020</read_at>
+  <date_added>Mon Feb 24 07:38:40 -0800 2020</date_added>
+  <date_updated>Mon Sep 14 00:22:59 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3204730620]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3204730620]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

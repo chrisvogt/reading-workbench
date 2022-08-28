@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2813418443</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">43848929</id>
+  <isbn>0316478520</isbn>
+  <isbn13>9780316478526</isbn13>
+  <text_reviews_count type="integer">17772</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.CBAM52NA5PqzJfxQJE2V5A</uri>
+  <title>Talking to Strangers: What We Should Know About the People We Don’t Know</title>
+  <title_without_series>Talking to Strangers: What We Should Know About the People We Don’t Know</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43848929-talking-to-strangers</link>
+  <num_pages>388</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>241999</ratings_count>
+  <description>&lt;b&gt;Malcolm Gladwell, host of the podcast Revisionist History and author of the #1 New York Times bestseller &lt;i&gt;Outliers&lt;/i&gt;, offers a powerful examination of our interactions with strangers -- and why they often go wrong.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;How did Fidel Castro fool the CIA for a generation? Why did Neville Chamberlain think he could trust Adolf Hitler? Why are campus sexual assaults on the rise? Do television sitcoms teach us something about the way we relate to each other that isn't true?&lt;br /&gt;&lt;br /&gt;While tackling these questions, Malcolm Gladwell was not solely writing a book for the page. He was also producing for the ear. In the audiobook version of Talking to Strangers, you'll hear the voices of people he interviewed--scientists, criminologists, military psychologists. Court transcripts are brought to life with re-enactments. You actually hear the contentious arrest of Sandra Bland by the side of the road in Texas. As Gladwell revisits the deceptions of Bernie Madoff, the trial of Amanda Knox, and the suicide of Sylvia Plath, you hear directly from many of the players in these real-life tragedies. There's even a theme song - Janelle Monae's "Hell You Talmbout."&lt;br /&gt;&lt;br /&gt;Something is very wrong, Gladwell argues, with the tools and strategies we use to make sense of people we don't know. And because we don't know how to talk to strangers, we are inviting conflict and misunderstanding in ways that have a profound effect on our lives and our world.</description>
+<authors>
+<author>
+<id>1439</id>
+<name>Malcolm Gladwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564001739p5/1439.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564001739p2/1439.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>2581308</ratings_count>
+<text_reviews_count>104383</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>68174561</id>
+  <uri>kca://work/amzn1.gr.work.v1.wVBk63c_bBgoIHreJPDjZg</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">253460987</id>
+          <page type="integer">311</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Dec 07 08:33:28 -0800 2019</created_at>
+          <updated_at type="datetime">Sat Dec 07 08:33:28 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">80</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">253263823</id>
+          <page type="integer">248</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Dec 05 12:43:51 -0800 2019</created_at>
+          <updated_at type="datetime">Thu Dec 05 12:43:51 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">63</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">253242007</id>
+          <page type="integer">210</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Dec 05 09:00:04 -0800 2019</created_at>
+          <updated_at type="datetime">Thu Dec 05 09:00:04 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">54</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">253167337</id>
+          <page type="integer">207</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Dec 04 17:24:36 -0800 2019</created_at>
+          <updated_at type="datetime">Wed Dec 04 17:24:36 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">53</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">253137076</id>
+          <page type="integer">179</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Dec 04 12:32:21 -0800 2019</created_at>
+          <updated_at type="datetime">Wed Dec 04 12:32:21 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">46</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">253112817</id>
+          <page type="integer">162</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Dec 04 08:31:10 -0800 2019</created_at>
+          <updated_at type="datetime">Wed Dec 04 08:31:10 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">41</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">253006755</id>
+          <page type="integer">145</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Dec 03 12:46:53 -0800 2019</created_at>
+          <updated_at type="datetime">Tue Dec 03 12:46:53 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">37</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">252981241</id>
+          <page type="integer">81</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Dec 03 08:47:21 -0800 2019</created_at>
+          <updated_at type="datetime">Tue Dec 03 08:47:21 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">20</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">251722888</id>
+          <page type="integer">68</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 22 20:14:42 -0800 2019</created_at>
+          <updated_at type="datetime">Fri Nov 22 20:14:42 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">17</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">251685014</id>
+          <page type="integer">35</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 22 12:43:27 -0800 2019</created_at>
+          <updated_at type="datetime">Fri Nov 22 12:43:27 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">9</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">251662557</id>
+          <page type="integer">20</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 22 08:44:48 -0800 2019</created_at>
+          <updated_at type="datetime">Fri Nov 22 08:44:48 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">5</percent>
+          <work_id type="integer">68174561</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">3258623616</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Dec 07 13:50:41 -0800 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">3234940798</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Nov 22 08:43:04 -0800 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">2909170602</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Tue May 07 21:03:08 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Nov 22 08:43:03 -0800 2019</started_at>
+  <read_at>Sat Dec 07 13:50:41 -0800 2019</read_at>
+  <date_added>Tue May 07 21:03:07 -0700 2019</date_added>
+  <date_updated>Sat Dec 07 13:50:41 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2813418443]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2813418443]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

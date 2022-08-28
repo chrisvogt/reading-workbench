@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>1369239127</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">7518289</id>
+  <isbn>1439102112</isbn>
+  <isbn13>9781439102114</isbn13>
+  <text_reviews_count type="integer">517</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.0vsdO2WJjHgGoaEK0DWjTg</uri>
+  <title>The Facebook Effect: The Inside Story of the Company That is Connecting the World</title>
+  <title_without_series>The Facebook Effect: The Inside Story of the Company That is Connecting the World</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7518289-the-facebook-effect</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon  Schuster</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>11746</ratings_count>
+  <description>The inside story of Facebook, told with the full, exclusive cooperation of founder Mark Zuckerberg and the company's other leaders.&lt;br /&gt;&lt;br /&gt;In little more than half a decade,&lt;b&gt; &lt;/b&gt;Facebook has gone from a dorm-room novelty to a company with 500 million users. It is one of the fastest growing companies in history, an essential part of the social life not only of teenagers but hundreds of millions of adults worldwide. As Facebook spreads around the globe, it creates surprising effects—even becoming instrumental in political protests from Colombia to Iran.&lt;br /&gt;&lt;br /&gt; Veteran technology reporter David Kirkpatrick had the full cooperation of Facebook’s key executives in researching this fascinating history of the company and its impact on our lives. Kirkpatrick tells us how Facebook was created, why it has flourished, and where it is going next. He chronicles its successes and missteps, and gives readers the most complete assessment anywhere of founder and CEO Mark Zuckerberg, the central figure in the company’s remarkable ascent. This is the Facebook story that can be found nowhere else.&lt;br /&gt;&lt;br /&gt; How did a nineteen-year-old Harvard student create a company that has transformed the Internet and how did he grow it to its current enormous size? Kirkpatrick shows how Zuckerberg steadfastly refused to compromise his vision, insistently focusing on growth over profits and preaching that Facebook must dominate (his word) communication on the Internet. In the process, he and a small group of key executives have created a company that has changed social life in the United States and elsewhere, a company that has become a ubiquitous presence in marketing, altering politics, business, and even our sense of our own identity. This is the Facebook Effect.</description>
+<authors>
+<author>
+<id>17998571</id>
+<name>David   Kirkpatrick</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17998571.David_Kirkpatrick]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>10824</ratings_count>
+<text_reviews_count>519</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>9732949</id>
+  <uri>kca://work/amzn1.gr.work.v1.wmyinuvyI_oMWwUFSU_iew</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">74748364</id>
+          <page type="integer">284</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Aug 29 11:25:49 -0700 2015</created_at>
+          <updated_at type="datetime">Sat Aug 29 11:25:49 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">73</percent>
+          <work_id type="integer">9732949</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">74689168</id>
+          <page type="integer">256</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Aug 28 13:44:50 -0700 2015</created_at>
+          <updated_at type="datetime">Fri Aug 28 13:44:50 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">66</percent>
+          <work_id type="integer">9732949</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">74654500</id>
+          <page type="integer">231</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Aug 28 01:39:32 -0700 2015</created_at>
+          <updated_at type="datetime">Fri Aug 28 01:39:32 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">60</percent>
+          <work_id type="integer">9732949</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">74634193</id>
+          <page type="integer">204</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 27 18:39:47 -0700 2015</created_at>
+          <updated_at type="datetime">Thu Aug 27 18:39:47 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">53</percent>
+          <work_id type="integer">9732949</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">74629662</id>
+          <page type="integer">161</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 27 17:18:42 -0700 2015</created_at>
+          <updated_at type="datetime">Thu Aug 27 17:18:42 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">41</percent>
+          <work_id type="integer">9732949</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">74491443</id>
+          <page type="integer">139</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Aug 25 20:37:17 -0700 2015</created_at>
+          <updated_at type="datetime">Tue Aug 25 20:37:17 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">36</percent>
+          <work_id type="integer">9732949</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">74474065</id>
+          <page type="integer">128</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Aug 25 16:20:43 -0700 2015</created_at>
+          <updated_at type="datetime">Tue Aug 25 16:20:43 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">33</percent>
+          <work_id type="integer">9732949</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">74090046</id>
+          <page type="integer">101</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 20 15:33:15 -0700 2015</created_at>
+          <updated_at type="datetime">Thu Aug 20 15:33:15 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">26</percent>
+          <work_id type="integer">9732949</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">988930729</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Aug 30 22:49:10 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">976843803</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Aug 20 15:33:07 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">976635598</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Thu Aug 20 12:01:10 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Aug 20 00:00:00 -0700 2015</started_at>
+  <read_at>Sun Aug 30 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Aug 20 12:01:09 -0700 2015</date_added>
+  <date_updated>Sun Aug 30 22:49:20 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1369239127]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1369239127]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

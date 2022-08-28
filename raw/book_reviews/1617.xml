@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2838942938</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1617</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">30458</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Xf0a6WGNQ9YRBJUz7000uQ</uri>
+  <title>Night  (The Night Trilogy, #1)</title>
+  <title_without_series>Night</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575073611l/1617._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575073611l/1617._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1617.Night</link>
+  <num_pages>115</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hill &amp; Wang</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.36</average_rating>
+  <ratings_count>1120199</ratings_count>
+  <description>Born in the town of Sighet, Transylvania, Elie Wiesel was a teenager when he and his family were taken from their home in 1944 to Auschwitz concentration camp, and then to Buchenwald. &lt;i&gt;Night&lt;/i&gt; is the terrifying record of Elie Wiesel's memories of the death of his family, the death of his own innocence, and his despair as a deeply observant Jew confronting the absolute evil of man. This new translation by his wife and most frequent translator, Marion Wiesel, corrects important details and presents the most accurate rendering in English of Elie Wiesel's testimony to what happened in the camps and of his unforgettable message that this horror must simply never be allowed to happen again.</description>
+<authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>1181297</ratings_count>
+<text_reviews_count>38697</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>265616</id>
+  <uri>kca://work/amzn1.gr.work.v1.m3fVRZa9mdtTo1Zys7ZiHg</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">225619976</id>
+          <page type="integer">29</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed May 29 15:02:20 -0700 2019</created_at>
+          <updated_at type="datetime">Wed May 29 15:02:20 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">25</percent>
+          <work_id type="integer">265616</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">2943614519</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed May 29 20:42:17 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">2942996262</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed May 29 13:13:29 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed May 29 13:13:29 -0700 2019</started_at>
+  <read_at>Wed May 29 20:42:16 -0700 2019</read_at>
+  <date_added>Wed May 29 13:13:28 -0700 2019</date_added>
+  <date_updated>Wed May 29 20:42:17 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2838942938]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2838942938]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

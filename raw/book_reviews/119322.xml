@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>656277525</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">119322</id>
+  <isbn>0679879242</isbn>
+  <isbn13>9780679879244</isbn13>
+  <text_reviews_count type="integer">17357</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oNiecDQ9-Jdo4cl8NKpegA</uri>
+  <title>The Golden Compass (His Dark Materials, #1)</title>
+  <title_without_series>The Golden Compass</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/119322.The_Golden_Compass</link>
+  <num_pages>399</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Alfred A. Knopf Books for Young Readers</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>1425611</ratings_count>
+  <description>Lyra is rushing to the cold, far North, where witch clans and armored bears rule. North, where the Gobblers take the children they steal--including her friend Roger. North, where her fearsome uncle Asriel is trying to build a bridge to a parallel world.&lt;br /&gt;&lt;br /&gt;Can one small girl make a difference in such great and terrible endeavors? This is Lyra: a savage, a schemer, a liar, and as fierce and true a champion as Roger or Asriel could want--but what Lyra doesn't know is that to help one of them will be to betray the other.</description>
+<authors>
+<author>
+<id>3618</id>
+<name>Philip Pullman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1614625372p5/3618.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1614625372p2/3618.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3618.Philip_Pullman]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>2701217</ratings_count>
+<text_reviews_count>83551</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>1536771</id>
+  <uri>kca://work/amzn1.gr.work.v1.AlR_HRV99vYxLu4zftM-ZQ</uri>
+</work></book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">73157588</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jul 01 16:03:43 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264309676' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 01 00:00:00 -0800 2008</read_at>
+  <date_added>Mon Jul 01 16:03:43 -0700 2013</date_added>
+  <date_updated>Fri Dec 07 20:25:15 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/656277525]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/656277525]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>4050041676</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">50623864</id>
+  <isbn>0765387565</isbn>
+  <isbn13>9780765387561</isbn13>
+  <text_reviews_count type="integer">71128</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v3.oIO35akbEPi5TDzC</uri>
+  <title>The Invisible Life of Addie LaRue</title>
+  <title_without_series>The Invisible Life of Addie LaRue</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584633432l/50623864._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584633432l/50623864._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue</link>
+  <num_pages>444</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2020</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>665248</ratings_count>
+  <description>France, 1714: in a moment of desperation, a young woman makes a Faustian bargain to live forever and is cursed to be forgotten by everyone she meets.&lt;br /&gt;&lt;br /&gt;Thus begins the extraordinary life of Addie LaRue, and a dazzling adventure that will play out across centuries and continents, across history and art, as a young woman learns how far she will go to leave her mark on the world.&lt;br /&gt;&lt;br /&gt;But everything changes when, after nearly 300 years, Addie stumbles across a young man in a hidden bookstore and he remembers her name.</description>
+<authors>
+<author>
+<id>7168230</id>
+<name>V.E. Schwab</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1511218938p5/7168230.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1511218938p2/7168230.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7168230.V_E_Schwab]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>1578769</ratings_count>
+<text_reviews_count>222513</text_reviews_count>
+</author>
+</authors>
+  <published>2020</published>
+<work>  <id>46895612</id>
+  <uri>kca://work/amzn1.gr.work.v1.8brF0fvdU8i2O7j4TodEZw</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">386262584</id>
+          <page type="integer">417</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jul 07 13:14:24 -0700 2021</created_at>
+          <updated_at type="datetime">Wed Jul 07 13:14:24 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">94</percent>
+          <work_id type="integer">46895612</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">386103081</id>
+          <page type="integer">386</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jul 06 23:13:19 -0700 2021</created_at>
+          <updated_at type="datetime">Tue Jul 06 23:13:19 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">87</percent>
+          <work_id type="integer">46895612</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">384704130</id>
+          <page type="integer">336</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jul 01 23:18:43 -0700 2021</created_at>
+          <updated_at type="datetime">Thu Jul 01 23:18:43 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">76</percent>
+          <work_id type="integer">46895612</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">384387981</id>
+          <page type="integer">326</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jun 30 19:37:02 -0700 2021</created_at>
+          <updated_at type="datetime">Wed Jun 30 19:37:02 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">73</percent>
+          <work_id type="integer">46895612</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">382426265</id>
+          <page type="integer">247</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jun 23 14:48:46 -0700 2021</created_at>
+          <updated_at type="datetime">Wed Jun 23 14:48:46 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">55</percent>
+          <work_id type="integer">46895612</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">382415867</id>
+          <page type="integer">218</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jun 23 14:11:45 -0700 2021</created_at>
+          <updated_at type="datetime">Wed Jun 23 14:11:45 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">49</percent>
+          <work_id type="integer">46895612</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">380830627</id>
+          <page type="integer">193</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jun 17 13:47:21 -0700 2021</created_at>
+          <updated_at type="datetime">Thu Jun 17 13:47:21 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">43</percent>
+          <work_id type="integer">46895612</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">379735973</id>
+          <page type="integer">104</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Jun 13 14:50:05 -0700 2021</created_at>
+          <updated_at type="datetime">Sun Jun 13 14:50:05 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">23</percent>
+          <work_id type="integer">46895612</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">378830085</id>
+          <page type="integer">37</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jun 09 22:02:54 -0700 2021</created_at>
+          <updated_at type="datetime">Wed Jun 09 22:02:54 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">8</percent>
+          <work_id type="integer">46895612</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">378696775</id>
+          <page type="integer">23</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jun 09 12:31:15 -0700 2021</created_at>
+          <updated_at type="datetime">Wed Jun 09 12:31:15 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">5</percent>
+          <work_id type="integer">46895612</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">4620579563</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Jul 08 08:39:18 -0700 2021</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">4549067248</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Jun 09 12:31:10 -0700 2021</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jun 09 12:31:09 -0700 2021</started_at>
+  <read_at>Thu Jul 08 08:39:18 -0700 2021</read_at>
+  <date_added>Wed Jun 09 12:31:09 -0700 2021</date_added>
+  <date_updated>Thu Jul 08 08:39:18 -0700 2021</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/4050041676]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/4050041676]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

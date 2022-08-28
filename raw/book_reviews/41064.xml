@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2501574724</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">41064</id>
+  <isbn>0575074817</isbn>
+  <isbn13>9780575074811</isbn13>
+  <text_reviews_count type="integer">365</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UGifFW9Ca5DOBMD40X8RpA</uri>
+  <title>The Penultimate Truth</title>
+  <title_without_series>The Penultimate Truth</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519091756l/41064._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519091756l/41064._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41064.The_Penultimate_Truth</link>
+  <num_pages>191</num_pages>
+  <format>Paperback</format>
+  <edition_information>SF Masterworks</edition_information>
+  <publisher>Gollancz</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>8902</ratings_count>
+  <description>World War III is raging - or so the millions of people crammed in their underground tanks believe. For fifteen years, subterranean humanity has been fed on daily broadcasts of a never-ending nuclear destruction, sustained by a belief in the all powerful Protector. But up on Earth's surface, a different kind of reality reigns. East and West are at peace. Across the planet, an elite corps of expert hoaxers preserve the lie.&lt;br /&gt;&lt;br /&gt;Cover Illustration: Chris Moore</description>
+<authors>
+<author>
+<id>4764</id>
+<name>Philip K. Dick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1633698608p5/4764.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1633698608p2/4764.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4764.Philip_K_Dick]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>1233919</ratings_count>
+<text_reviews_count>67342</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>209478</id>
+  <uri>kca://work/amzn1.gr.work.v1.nAFpinu1-dF4xxWkge0u9A</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">186096933</id>
+          <page type="integer">174</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Aug 24 10:51:01 -0700 2018</created_at>
+          <updated_at type="datetime">Fri Aug 24 10:51:01 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">91</percent>
+          <work_id type="integer">209478</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">186012393</id>
+          <page type="integer">159</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 23 17:42:50 -0700 2018</created_at>
+          <updated_at type="datetime">Thu Aug 23 17:42:50 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">83</percent>
+          <work_id type="integer">209478</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">185964930</id>
+          <page type="integer">132</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 23 10:16:01 -0700 2018</created_at>
+          <updated_at type="datetime">Thu Aug 23 10:16:01 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">69</percent>
+          <work_id type="integer">209478</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">185852259</id>
+          <page type="integer">74</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Aug 22 13:04:27 -0700 2018</created_at>
+          <updated_at type="datetime">Wed Aug 22 13:04:27 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">38</percent>
+          <work_id type="integer">209478</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">185829573</id>
+          <page type="integer">47</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Aug 22 09:30:04 -0700 2018</created_at>
+          <updated_at type="datetime">Wed Aug 22 09:30:04 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">24</percent>
+          <work_id type="integer">209478</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">185691972</id>
+          <page type="integer">34</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Aug 21 08:52:53 -0700 2018</created_at>
+          <updated_at type="datetime">Tue Aug 21 08:52:53 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">17</percent>
+          <work_id type="integer">209478</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">185638523</id>
+          <page type="integer">20</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 20 21:08:29 -0700 2018</created_at>
+          <updated_at type="datetime">Mon Aug 20 21:08:29 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">10</percent>
+          <work_id type="integer">209478</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">2503149564</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Aug 24 16:47:14 -0700 2018</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">2497131537</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Aug 20 21:08:18 -0700 2018</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">2497130750</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Mon Aug 20 21:07:33 -0700 2018</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264306657' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Aug 20 21:08:18 -0700 2018</started_at>
+  <read_at>Fri Aug 24 16:47:17 -0700 2018</read_at>
+  <date_added>Mon Aug 20 21:07:33 -0700 2018</date_added>
+  <date_updated>Fri Dec 07 20:21:13 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2501574724]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2501574724]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

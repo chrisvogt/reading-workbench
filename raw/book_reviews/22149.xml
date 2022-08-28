@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>656274216</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">22149</id>
+  <isbn>156205810X</isbn>
+  <isbn13>9781562058104</isbn13>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1q2VtyNN_zm_1HkM3ACd9g</uri>
+  <title>Designing Web Usability</title>
+  <title_without_series>Designing Web Usability</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22149.Designing_Web_Usability</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>New Riders Publishing</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>1163</ratings_count>
+  <description>New approaches for crafting effective sites. This book is a tutorial and exposition of the principles of Web site design. It aids users in building web sites that stand out from the noise of the web and bring them to the content in an effective and efficient way. This four-color book gives substantial critiques of existing Web site designs.</description>
+<authors>
+<author>
+<id>12637</id>
+<name>Jakob Nielsen</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12637.Jakob_Nielsen]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>2858</ratings_count>
+<text_reviews_count>101</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>23212</id>
+  <uri>kca://work/amzn1.gr.work.v1.-e4VUfCTEQQqHtuEfLfYVA</uri>
+</work></book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">73152968</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jul 01 15:59:20 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 01 00:00:00 -0800 2008</read_at>
+  <date_added>Mon Jul 01 15:59:20 -0700 2013</date_added>
+  <date_updated>Mon Jul 01 15:59:30 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/656274216]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/656274216]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

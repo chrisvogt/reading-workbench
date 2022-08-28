@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>1077609978</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">2612</id>
+  <isbn>0316346624</isbn>
+  <isbn13>9780316346627</isbn13>
+  <text_reviews_count type="integer">13947</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.rp_Fr01MGufpLcY9Yi8KIg</uri>
+  <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+  <title_without_series>The Tipping Point: How Little Things Can Make a Big Difference</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2612.The_Tipping_Point</link>
+  <num_pages>301</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Time Warner Book Group</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month/>
+  <average_rating>3.99</average_rating>
+  <ratings_count>768276</ratings_count>
+  <description>The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.</description>
+<authors>
+<author>
+<id>1439</id>
+<name>Malcolm Gladwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564001739p5/1439.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564001739p2/1439.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>2581308</ratings_count>
+<text_reviews_count>104383</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>2124255</id>
+  <uri>kca://work/amzn1.gr.work.v1.0gldOhtTZsFxGayFbXajCQ</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">72977074</id>
+          <page type="integer">193</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 06 14:12:42 -0700 2015</created_at>
+          <updated_at type="datetime">Thu Aug 06 14:12:42 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">63</percent>
+          <work_id type="integer">2124255</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">72844262</id>
+          <page type="integer">159</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Aug 05 00:20:49 -0700 2015</created_at>
+          <updated_at type="datetime">Wed Aug 05 00:20:49 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">2124255</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">72843009</id>
+          <page type="integer">138</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Aug 04 23:47:25 -0700 2015</created_at>
+          <updated_at type="datetime">Tue Aug 04 23:47:25 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">45</percent>
+          <work_id type="integer">2124255</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">72509410</id>
+          <page type="integer">89</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Jul 31 22:58:19 -0700 2015</created_at>
+          <updated_at type="datetime">Fri Jul 31 22:58:19 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">2124255</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">72505242</id>
+          <page type="integer">63</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Jul 31 21:28:58 -0700 2015</created_at>
+          <updated_at type="datetime">Fri Jul 31 21:28:58 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">20</percent>
+          <work_id type="integer">2124255</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">961411602</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Aug 07 14:11:22 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">953054105</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Jul 31 21:26:27 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">600729355</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sat Oct 11 10:18:51 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jul 31 00:00:00 -0700 2015</started_at>
+  <read_at>Fri Aug 07 14:18:20 -0700 2015</read_at>
+  <date_added>Sat Oct 11 10:18:51 -0700 2014</date_added>
+  <date_updated>Fri Aug 07 14:18:20 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Finished The Tipping Point by Malcolm Gladwell.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1077609978]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1077609978]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

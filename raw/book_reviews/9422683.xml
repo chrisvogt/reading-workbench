@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2189630658</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">9422683</id>
+  <isbn>0596806752</isbn>
+  <isbn13>9780596806750</isbn13>
+  <text_reviews_count type="integer">69</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.wztAzFG3lSTnYyGLjGEuIw</uri>
+  <title>JavaScript Patterns</title>
+  <title_without_series>JavaScript Patterns</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344668503l/9422683._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344668503l/9422683._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9422683-javascript-patterns</link>
+  <num_pages>216</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>1620</ratings_count>
+  <description>What's the best approach for developing an application with JavaScript? This book helps you answer that question with numerous JavaScript coding patterns and best practices. If you're an experienced developer looking to solve problems related to objects, functions, inheritance, and other language-specific categories, the abstractions and code templates in this guide are ideal -- whether you're writing a client-side, server-side, or desktop application with JavaScript.&lt;br /&gt;&lt;br /&gt;Written by JavaScript expert Stoyan Stefanov -- Senior Yahoo! Technical and architect of YSlow 2.0, the web page performance optimization tool -- &lt;i&gt;JavaScript Patterns&lt;/i&gt; includes practical advice for implementing each pattern discussed, along with several hands-on examples. You'll also learn about anti-patterns: common programming approaches that cause more problems than they solve.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Explore useful habits for writing high-quality JavaScript code, such as avoiding globals, using single var declarations, and more&lt;br /&gt;Learn why literal notation patterns are simpler alternatives to constructor functions&lt;br /&gt;Discover different ways to define a function in JavaScript&lt;br /&gt;Create objects that go beyond the basic patterns of using object literals and constructor functions&lt;br /&gt;Learn the options available for code reuse and inheritance in JavaScript&lt;br /&gt;Study sample JavaScript approaches to common design patterns such as Singleton, Factory, Decorator, and more&lt;br /&gt;Examine patterns that apply specifically to the client-side browser environment</description>
+<authors>
+<author>
+<id>700005</id>
+<name>Stoyan Stefanov</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1370293709p5/700005.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1370293709p2/700005.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/700005.Stoyan_Stefanov]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>2144</ratings_count>
+<text_reviews_count>132</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>14307098</id>
+  <uri>kca://work/amzn1.gr.work.v1.8ADxEjvnyjnXIO5P6oRkBg</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">111055630</id>
+          <page type="integer">109</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 22 14:20:31 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 22 14:20:31 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">50</percent>
+          <work_id type="integer">14307098</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">109295099</id>
+          <page type="integer">100</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 01 13:04:14 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Oct 01 13:04:14 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">46</percent>
+          <work_id type="integer">14307098</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">108925041</id>
+          <page type="integer">87</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 26 23:08:30 -0700 2016</created_at>
+          <updated_at type="datetime">Mon Sep 26 23:08:30 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">40</percent>
+          <work_id type="integer">14307098</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">107580990</id>
+          <page type="integer">39</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Sep 11 08:53:28 -0700 2016</created_at>
+          <updated_at type="datetime">Sun Sep 11 08:53:28 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">18</percent>
+          <work_id type="integer">14307098</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">107116938</id>
+          <page type="integer">22</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Sep 06 01:51:46 -0700 2016</created_at>
+          <updated_at type="datetime">Tue Sep 06 01:51:46 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">10</percent>
+          <work_id type="integer">14307098</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">106409853</id>
+          <page type="integer">18</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 29 01:39:58 -0700 2016</created_at>
+          <updated_at type="datetime">Mon Aug 29 01:39:58 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">8</percent>
+          <work_id type="integer">14307098</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">105131755</id>
+          <page type="integer">9</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Aug 14 21:48:30 -0700 2016</created_at>
+          <updated_at type="datetime">Sun Aug 14 21:48:30 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">14307098</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">2087582331</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Nov 19 23:39:23 -0800 2017</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264344792' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='148302655' name='backburner' review_shelf_id='1840135270' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Nov 19 23:39:23 -0800 2017</date_added>
+  <date_updated>Fri Dec 07 21:16:10 -0800 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2189630658]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2189630658]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

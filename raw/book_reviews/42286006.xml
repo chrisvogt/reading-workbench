@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2947716682</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">42286006</id>
+  <isbn>1732265143</isbn>
+  <isbn13>9781732265141</isbn13>
+  <text_reviews_count type="integer">44</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vZgMjkxCkG2qs4Jzg3II5g</uri>
+  <title>The Revolt of The Public and the Crisis of Authority in the New Millennium</title>
+  <title_without_series>The Revolt of The Public and the Crisis of Authority in the New Millennium</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42286006-the-revolt-of-the-public-and-the-crisis-of-authority-in-the-new-millenni</link>
+  <num_pages>445</num_pages>
+  <format></format>
+  <edition_information>Second Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>1125</ratings_count>
+  <description>In the words of economist and scholar Arnold Kling, Martin Gurri saw it coming.&lt;br /&gt;&lt;br /&gt;Technology has categorically reversed the information balance of power between the public and the elites who manage the great hierarchical institutions of the industrial age government, political parties, the media.&lt;br /&gt;&lt;br /&gt;The Revolt of the Public tells the story of how insurgencies, enabled by digital devices and a vast information sphere, have mobilized millions of ordinary people around the world.&lt;br /&gt;&lt;br /&gt;Originally published in 2014, this updated edition of The Revolt of the Public includes an extensive analysis of Donald Trump's improbable rise to the presidency and the electoral triumphs of Brexit and concludes with a speculative look forward, pondering whether the current elite class can bring about a reformation of the democratic process and whether new organizing principles, adapted to a digital world, can arise out of the present political turbulence.</description>
+<authors>
+<author>
+<id>8300201</id>
+<name>Martin Gurri</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1650204847p5/8300201.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1650204847p2/8300201.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8300201.Martin_Gurri]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>1125</ratings_count>
+<text_reviews_count>183</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>41882607</id>
+  <uri>kca://work/amzn1.gr.work.v1.Qr4kayWyIbcBzGFSQCUQyg</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">245727116</id>
+          <page type="integer">402</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Oct 10 12:44:18 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Oct 10 12:44:18 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">89</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">245695839</id>
+          <page type="integer">393</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Oct 10 08:10:01 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Oct 10 08:10:01 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">87</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">245550424</id>
+          <page type="integer">375</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Oct 09 08:16:12 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Oct 09 08:16:12 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">83</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">245550423</id>
+          <page type="integer">375</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Oct 09 08:16:12 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Oct 09 08:16:12 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">83</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">245398663</id>
+          <page type="integer">357</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Oct 08 08:24:24 -0700 2019</created_at>
+          <updated_at type="datetime">Tue Oct 08 08:24:24 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">79</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">245239458</id>
+          <page type="integer">326</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Oct 07 08:21:52 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Oct 07 08:21:52 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">72</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">244890400</id>
+          <page type="integer">310</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Oct 04 17:06:39 -0700 2019</created_at>
+          <updated_at type="datetime">Fri Oct 04 17:06:39 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">69</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">244836575</id>
+          <page type="integer">302</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Oct 04 08:32:09 -0700 2019</created_at>
+          <updated_at type="datetime">Fri Oct 04 08:32:09 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">67</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">244693997</id>
+          <page type="integer">291</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Oct 03 07:55:53 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Oct 03 07:55:53 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">64</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">244611090</id>
+          <page type="integer">285</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Oct 02 16:47:43 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Oct 02 16:47:43 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">63</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">244580992</id>
+          <page type="integer">280</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Oct 02 12:47:47 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Oct 02 12:47:47 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">244549218</id>
+          <page type="integer">254</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Oct 02 08:33:43 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Oct 02 08:33:43 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">56</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">244549217</id>
+          <page type="integer">254</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Oct 02 08:33:42 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Oct 02 08:33:42 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">56</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">244249513</id>
+          <page type="integer">230</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 30 09:59:29 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Sep 30 09:59:29 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">51</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">243724965</id>
+          <page type="integer">225</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Sep 26 11:39:59 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Sep 26 11:39:59 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">50</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">243431256</id>
+          <page type="integer">208</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Sep 24 11:28:41 -0700 2019</created_at>
+          <updated_at type="datetime">Tue Sep 24 11:28:41 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">46</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">243317643</id>
+          <page type="integer">201</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 23 16:57:29 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Sep 23 16:57:29 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">44</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">243253420</id>
+          <page type="integer">196</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 23 08:41:13 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Sep 23 08:41:13 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">43</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">242710763</id>
+          <page type="integer">185</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Sep 19 08:44:29 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Sep 19 08:44:29 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">41</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">242710761</id>
+          <page type="integer">185</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Sep 19 08:44:27 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Sep 19 08:44:27 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">41</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">242250140</id>
+          <page type="integer">165</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 16 08:51:24 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Sep 16 08:51:24 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">36</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">242250134</id>
+          <page type="integer">165</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 16 08:51:23 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Sep 16 08:51:23 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">36</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">241575782</id>
+          <page type="integer">152</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Sep 11 11:56:31 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Sep 11 11:56:31 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">33</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">241402784</id>
+          <page type="integer">144</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Sep 10 09:12:12 -0700 2019</created_at>
+          <updated_at type="datetime">Tue Sep 10 09:12:12 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">32</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">241253065</id>
+          <page type="integer">140</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 09 10:24:36 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Sep 09 10:24:36 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">31</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">240830456</id>
+          <page type="integer">134</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Sep 06 09:40:50 -0700 2019</created_at>
+          <updated_at type="datetime">Fri Sep 06 09:40:50 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">240830454</id>
+          <page type="integer">134</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Sep 06 09:40:49 -0700 2019</created_at>
+          <updated_at type="datetime">Fri Sep 06 09:40:49 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">240741435</id>
+          <page type="integer">129</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Sep 05 17:04:37 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Sep 05 17:04:37 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">28</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">240741430</id>
+          <page type="integer">129</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Sep 05 17:04:36 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Sep 05 17:04:36 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">28</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">240535359</id>
+          <page type="integer">122</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Sep 04 09:22:41 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Sep 04 09:22:41 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">27</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">239664092</id>
+          <page type="integer">103</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 29 08:49:35 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Aug 29 08:49:35 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">22</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">239513994</id>
+          <page type="integer">86</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Aug 28 08:46:33 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Aug 28 08:46:33 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">19</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">239423678</id>
+          <page type="integer">78</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Aug 27 17:20:03 -0700 2019</created_at>
+          <updated_at type="datetime">Tue Aug 27 17:20:03 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">17</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">239357432</id>
+          <page type="integer">73</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Aug 27 08:41:19 -0700 2019</created_at>
+          <updated_at type="datetime">Tue Aug 27 08:41:19 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">16</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">239273646</id>
+          <page type="integer">66</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 26 18:37:23 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Aug 26 18:37:23 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">239226147</id>
+          <page type="integer">58</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 26 12:27:01 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Aug 26 12:27:01 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">12</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">239195083</id>
+          <page type="integer">46</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 26 08:17:19 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Aug 26 08:17:19 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">10</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">238765691</id>
+          <page type="integer">36</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Aug 23 08:16:52 -0700 2019</created_at>
+          <updated_at type="datetime">Fri Aug 23 08:16:52 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">8</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">238688956</id>
+          <page type="integer">28</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 22 17:59:00 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Aug 22 17:59:00 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">6</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">238670764</id>
+          <page type="integer">21</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Aug 22 15:07:55 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Aug 22 15:07:55 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">41882607</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">3168117070</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Oct 10 17:49:46 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">3087231462</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Aug 22 09:48:47 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Aug 22 09:48:47 -0700 2019</started_at>
+  <read_at>Thu Oct 10 17:49:46 -0700 2019</read_at>
+  <date_added>Thu Aug 22 09:48:46 -0700 2019</date_added>
+  <date_updated>Thu Oct 10 17:49:47 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2947716682]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2947716682]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

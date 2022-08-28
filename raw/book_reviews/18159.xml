@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>1701674175</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">18159</id>
+  <isbn>0471782661</isbn>
+  <isbn13>9780471782667</isbn13>
+  <text_reviews_count type="integer">107</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.DKsoXhfw4Bmb55vhPB_BNg</uri>
+  <title>The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers</title>
+  <title_without_series>The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501128894l/18159._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501128894l/18159._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18159.The_Art_of_Intrusion</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Wiley</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>3230</ratings_count>
+  <description>&lt;b&gt;Hacker extraordinaire Kevin Mitnick delivers the explosive encore to his bestselling &lt;i&gt;The Art of Deception&lt;/i&gt;&lt;/b&gt;&lt;br /&gt; Kevin Mitnick, the world's most celebrated hacker, now devotes his life to helping businesses and governments combat data thieves, cybervandals, and other malicious computer intruders. In his bestselling The Art of Deception, Mitnick presented fictionalized case studies that illustrated how savvy computer crackers use "social engineering" to compromise even the most technically secure computer systems. Now, in his new book, Mitnick goes one step further, offering hair-raising stories of real-life computer break-ins-and showing how the victims could have prevented them. Mitnick's reputation within the hacker community gave him unique credibility with the perpetrators of these crimes, who freely shared their stories with him-and whose exploits Mitnick now reveals in detail for the first time, including:&lt;br /&gt;A group of friends who won nearly a million dollars in Las Vegas by reverse-engineering slot machines Two teenagers who were persuaded by terrorists to hack into the Lockheed Martin computer systems Two convicts who joined forces to become hackers inside a Texas prison A "Robin Hood" hacker who penetrated the computer systems of many prominent companies-andthen told them how he gained access With riveting "you are there" descriptions of real computer break-ins, indispensable tips on countermeasures security professionals need to implement now, and Mitnick's own acerbic commentary on the crimes he describes, this book is sure to reach a wide audience-and attract the attention of both law enforcement agencies and the media.</description>
+<authors>
+<author>
+<id>10953</id>
+<name>Kevin D. Mitnick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1311855926p5/10953.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1311855926p2/10953.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10953.Kevin_D_Mitnick]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>40151</ratings_count>
+<text_reviews_count>2955</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>19616</id>
+  <uri>kca://work/amzn1.gr.work.v1.43ejBBM1UyXFXAOlvzqtIg</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">107105268</id>
+          <page type="integer">231</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 05 21:36:23 -0700 2016</created_at>
+          <updated_at type="datetime">Mon Sep 05 21:36:23 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">85</percent>
+          <work_id type="integer">19616</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">107092240</id>
+          <page type="integer">190</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 05 19:11:00 -0700 2016</created_at>
+          <updated_at type="datetime">Mon Sep 05 19:11:00 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">70</percent>
+          <work_id type="integer">19616</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">107012028</id>
+          <page type="integer">172</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Sep 04 22:31:02 -0700 2016</created_at>
+          <updated_at type="datetime">Sun Sep 04 22:31:02 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">63</percent>
+          <work_id type="integer">19616</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">106772785</id>
+          <page type="integer">140</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Sep 02 01:56:16 -0700 2016</created_at>
+          <updated_at type="datetime">Fri Sep 02 01:56:16 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">51</percent>
+          <work_id type="integer">19616</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">106407348</id>
+          <page type="integer">115</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 29 00:24:55 -0700 2016</created_at>
+          <updated_at type="datetime">Mon Aug 29 00:24:55 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">42</percent>
+          <work_id type="integer">19616</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">106321863</id>
+          <page type="integer">91</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Aug 28 04:02:07 -0700 2016</created_at>
+          <updated_at type="datetime">Sun Aug 28 04:02:07 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">33</percent>
+          <work_id type="integer">19616</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">105135559</id>
+          <page type="integer">49</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Aug 14 22:54:40 -0700 2016</created_at>
+          <updated_at type="datetime">Sun Aug 14 22:54:40 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">18</percent>
+          <work_id type="integer">19616</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">102535348</id>
+          <page type="integer">23</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 18 00:36:15 -0700 2016</created_at>
+          <updated_at type="datetime">Mon Jul 18 00:36:15 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">8</percent>
+          <work_id type="integer">19616</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1499295238</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Sep 05 22:48:15 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1436114375</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Jul 18 00:36:09 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1436114357</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jul 18 00:36:06 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='34562170' name='technology' review_shelf_id='1369568960' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jul 18 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Sep 05 00:00:00 -0700 2016</read_at>
+  <date_added>Mon Jul 18 00:36:06 -0700 2016</date_added>
+  <date_updated>Mon Sep 05 22:48:30 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1701674175]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1701674175]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

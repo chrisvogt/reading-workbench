@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>3082406637</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">26146</id>
+  <isbn>0807014273</isbn>
+  <isbn13>9780807014271</isbn13>
+  <text_reviews_count type="integer">515</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mcX02293OmoSqH4YutsiaA</uri>
+  <title>Man's Search for Meaning</title>
+  <title_without_series>Man's Search for Meaning</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1167784172l/26146._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1167784172l/26146._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26146.Man_s_Search_for_Meaning</link>
+  <num_pages>165</num_pages>
+  <format>Paperback</format>
+  <edition_information>U.S. Edition</edition_information>
+  <publisher>Beacon Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.36</average_rating>
+  <ratings_count>565936</ratings_count>
+  <description>Man's Search for Meaning has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Between 1942 and 1945 psychiatrist Viktor Frankl labored in four different camps, including Auschwitz, while his parents, brother, and pregnant wife perished. Based on his own experience and the stories of his many patients, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. Frankl's theory—known as logotherapy, from the Greek word logos ("meaning")—holds that our primary drive in life is not pleasure, as Freud maintained, but the discovery and pursuit of what we personally find meaningful. In the decades since its first publication in 1959, Man's Search for Meaning has become a classic, with more than twelve million copies in print around the world. A 1991 Library of Congress survey that asked readers to name a "book that made a difference in your life" found Man's Search for Meaning among the ten most influential books in America. At once a memoir, a meditation, a treatise, and a history, it continues to inspire us all to find significance in the very act of living.&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>2782</id>
+<name>Viktor E. Frankl</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542894524p5/2782.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542894524p2/2782.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2782.Viktor_E_Frankl]]></link>
+<average_rating>4.36</average_rating>
+<ratings_count>584886</ratings_count>
+<text_reviews_count>32474</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3389674</id>
+  <uri>kca://work/amzn1.gr.work.v1.A7nYAiWvTn1MXcK_zXFOBw</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">254616714</id>
+          <page type="integer">127</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Dec 16 17:51:32 -0800 2019</created_at>
+          <updated_at type="datetime">Mon Dec 16 17:51:32 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">76</percent>
+          <work_id type="integer">3389674</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">254560111</id>
+          <page type="integer">117</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Dec 16 09:24:36 -0800 2019</created_at>
+          <updated_at type="datetime">Mon Dec 16 09:24:36 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">70</percent>
+          <work_id type="integer">3389674</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">254445010</id>
+          <page type="integer">101</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Dec 15 12:21:56 -0800 2019</created_at>
+          <updated_at type="datetime">Sun Dec 15 12:21:56 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">61</percent>
+          <work_id type="integer">3389674</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">254248614</id>
+          <page type="integer">82</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Dec 13 15:33:17 -0800 2019</created_at>
+          <updated_at type="datetime">Fri Dec 13 15:33:17 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">49</percent>
+          <work_id type="integer">3389674</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">254231664</id>
+          <page type="integer">72</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Dec 13 12:37:09 -0800 2019</created_at>
+          <updated_at type="datetime">Fri Dec 13 12:37:09 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">43</percent>
+          <work_id type="integer">3389674</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">254210218</id>
+          <page type="integer">45</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Dec 13 08:32:17 -0800 2019</created_at>
+          <updated_at type="datetime">Fri Dec 13 08:32:17 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">27</percent>
+          <work_id type="integer">3389674</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">254120862</id>
+          <page type="integer">28</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Dec 12 13:00:13 -0800 2019</created_at>
+          <updated_at type="datetime">Thu Dec 12 13:00:13 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">16</percent>
+          <work_id type="integer">3389674</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">254101084</id>
+          <page type="integer">9</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Dec 12 09:42:36 -0800 2019</created_at>
+          <updated_at type="datetime">Thu Dec 12 09:42:36 -0800 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">5</percent>
+          <work_id type="integer">3389674</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">3275379605</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Dec 17 12:25:30 -0800 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">3266675955</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Dec 12 09:42:12 -0800 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Dec 12 09:42:12 -0800 2019</started_at>
+  <read_at>Tue Dec 17 12:25:30 -0800 2019</read_at>
+  <date_added>Thu Dec 12 09:42:11 -0800 2019</date_added>
+  <date_updated>Tue Dec 17 12:25:30 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3082406637]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3082406637]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

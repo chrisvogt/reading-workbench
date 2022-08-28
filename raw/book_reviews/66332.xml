@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>1060142069</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">66332</id>
+  <isbn>0060921927</isbn>
+  <isbn13>9780060921927</isbn13>
+  <text_reviews_count type="integer">69</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.GMTbCGVLYzEXP-nj8LbYuA</uri>
+  <title>The Evolving Self: A Psychology for the Third Millennium</title>
+  <title_without_series>The Evolving Self: A Psychology for the Third Millennium</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410138217l/66332._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410138217l/66332._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/66332.The_Evolving_Self</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information>1st edition</edition_information>
+  <publisher>Harper Perennial</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>1002</ratings_count>
+  <description>The author of the bestselling &lt;i&gt;Flow&lt;/i&gt; (more than 125,000 copies sold) offers an intelligent, inspiring guide to life in the future.&lt;br /&gt;&lt;br /&gt;In this wise, humane inquiry, Csikszentmihalyi (&lt;i&gt;Flow: The Psychology of Optimal Experience&lt;/i&gt;) argues that genetically programmed behaviors that once helped humans adapt and multiply now threaten our survival. These traits include obsessions with food and sex, addiction to pleasure, excessive rationality and a tendency to focus on the negative. A University of Chicago psychology professor, the author also believes we must free our minds of cultural illusions such as ethnocentric superiority or identification with one's possessions. He urges readers to find ways to reduce the oppression, exploitation and inequality that are woven into the fabric of society. Further, he wants us to control the direction of human evolution by pursuing challenging activities that lead to greater complexity while opposting chaos and conformity. Each chapter concludes with self-help questions and mental exercises designed to help readers apply the insights of this literate manifesto to their daily lives.</description>
+<authors>
+<author>
+<id>27446</id>
+<name>Mihaly Csikszentmihalyi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1325089488p5/27446.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1325089488p2/27446.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27446.Mihaly_Csikszentmihalyi]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>84960</ratings_count>
+<text_reviews_count>4665</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>64317</id>
+  <uri>kca://work/amzn1.gr.work.v1.5ilefgkTMi6fbpDb1u7bWA</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">51171589</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Oct 14 12:41:12 -0700 2014</created_at>
+          <updated_at type="datetime">Tue Oct 14 12:41:12 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">64317</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">51113820</id>
+          <page type="integer">252</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Oct 13 13:15:56 -0700 2014</created_at>
+          <updated_at type="datetime">Mon Oct 13 13:15:56 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">65</percent>
+          <work_id type="integer">64317</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">51065592</id>
+          <page type="integer">207</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Oct 12 17:03:44 -0700 2014</created_at>
+          <updated_at type="datetime">Sun Oct 12 17:03:44 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">53</percent>
+          <work_id type="integer">64317</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">51005366</id>
+          <page type="integer">149</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Oct 11 14:58:34 -0700 2014</created_at>
+          <updated_at type="datetime">Sat Oct 11 14:58:34 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">38</percent>
+          <work_id type="integer">64317</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">50961410</id>
+          <page type="integer">129</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Oct 10 17:44:27 -0700 2014</created_at>
+          <updated_at type="datetime">Fri Oct 10 17:44:27 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">33</percent>
+          <work_id type="integer">64317</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">50476283</id>
+          <page type="integer">63</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Oct 01 21:49:30 -0700 2014</created_at>
+          <updated_at type="datetime">Wed Oct 01 21:49:30 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">16</percent>
+          <work_id type="integer">64317</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">50007250</id>
+          <page type="integer">55</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Sep 23 02:28:40 -0700 2014</created_at>
+          <updated_at type="datetime">Tue Sep 23 02:28:40 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">64317</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">49980704</id>
+          <page type="integer">43</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 22 12:20:05 -0700 2014</created_at>
+          <updated_at type="datetime">Mon Sep 22 12:20:05 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">11</percent>
+          <work_id type="integer">64317</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">49902975</id>
+          <page type="integer">28</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Sep 20 16:19:17 -0700 2014</created_at>
+          <updated_at type="datetime">Sat Sep 20 16:19:17 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">7</percent>
+          <work_id type="integer">64317</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">604032254</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Oct 14 12:41:47 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">578288181</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Sep 20 16:19:05 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Sep 20 16:19:04 -0700 2014</started_at>
+  <read_at>Tue Oct 14 12:41:46 -0700 2014</read_at>
+  <date_added>Sat Sep 20 16:19:04 -0700 2014</date_added>
+  <date_updated>Tue Oct 14 12:41:46 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1060142069]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1060142069]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

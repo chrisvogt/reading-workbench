@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>3184828857</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">3591234</id>
+  <isbn>0205609996</isbn>
+  <isbn13>9780205609994</isbn13>
+  <text_reviews_count type="integer">55</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.irl8Kt449KaumMZdBGbgbQ</uri>
+  <title>Influence: Science and Practice</title>
+  <title_without_series>Influence: Science and Practice</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3591234-influence</link>
+  <num_pages>260</num_pages>
+  <format>Paperback</format>
+  <edition_information>Fifth Edition</edition_information>
+  <publisher>Pearson</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>132439</ratings_count>
+  <description>&lt;b&gt;
+  &lt;i&gt;Influence: Science and Practice&lt;/i&gt;
+&lt;/b&gt;&lt;b&gt; is an examination of the psychology of compliance (i.e. uncovering which factors cause a person to say "yes" to another's request).&lt;/b&gt; Written in a narrative style combined with scholarly research, Cialdini combines evidence from experimental work with the techniques and strategies he gathered while working as a salesperson, fundraiser, advertiser, and in other positions inside organizations that commonly use compliance tactics to get us to say "yes." Widely used in classes, as well as sold to people operating successfully in the business world, the eagerly awaited revision of &lt;i&gt;Influence&lt;/i&gt; reminds the reader of the power of persuasion. Cialdini organizes compliance techniques into six categories based on psychological principles that direct human behavior: reciprocation, consistency, social proof, liking, authority, and scarcity.</description>
+<authors>
+<author>
+<id>160932</id>
+<name>Robert B. Cialdini</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1293767250p5/160932.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1293767250p2/160932.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/160932.Robert_B_Cialdini]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>155352</ratings_count>
+<text_reviews_count>5965</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>29303</id>
+  <uri>kca://work/amzn1.gr.work.v1.sySy27d7gHs2WgaOJgSdGQ</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">267036174</id>
+          <page type="integer">228</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Feb 19 20:46:23 -0800 2020</created_at>
+          <updated_at type="datetime">Wed Feb 19 20:46:23 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">87</percent>
+          <work_id type="integer">29303</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">267031628</id>
+          <page type="integer">217</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Feb 19 20:19:14 -0800 2020</created_at>
+          <updated_at type="datetime">Wed Feb 19 20:19:14 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">82</percent>
+          <work_id type="integer">29303</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">266995858</id>
+          <page type="integer">134</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Feb 19 16:38:33 -0800 2020</created_at>
+          <updated_at type="datetime">Wed Feb 19 16:38:33 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">51</percent>
+          <work_id type="integer">29303</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">266952788</id>
+          <page type="integer">82</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Feb 19 12:28:19 -0800 2020</created_at>
+          <updated_at type="datetime">Wed Feb 19 12:28:19 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">31</percent>
+          <work_id type="integer">29303</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">266026895</id>
+          <page type="integer">74</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Feb 14 20:17:29 -0800 2020</created_at>
+          <updated_at type="datetime">Fri Feb 14 20:17:29 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">28</percent>
+          <work_id type="integer">29303</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">265607807</id>
+          <page type="integer">35</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Feb 12 12:15:31 -0800 2020</created_at>
+          <updated_at type="datetime">Wed Feb 12 12:15:31 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">13</percent>
+          <work_id type="integer">29303</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">265238691</id>
+          <page type="integer">17</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Feb 10 16:10:40 -0800 2020</created_at>
+          <updated_at type="datetime">Mon Feb 10 16:10:40 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">6</percent>
+          <work_id type="integer">29303</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">265180236</id>
+          <page type="integer">8</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Feb 10 11:08:34 -0800 2020</created_at>
+          <updated_at type="datetime">Mon Feb 10 11:08:34 -0800 2020</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">3</percent>
+          <work_id type="integer">29303</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">3418773428</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Feb 20 11:29:41 -0800 2020</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">3399424800</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Feb 10 11:07:53 -0800 2020</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 10 11:07:53 -0800 2020</started_at>
+  <read_at>Thu Feb 20 11:29:42 -0800 2020</read_at>
+  <date_added>Mon Feb 10 11:07:52 -0800 2020</date_added>
+  <date_updated>Mon Sep 14 00:21:32 -0700 2020</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3184828857]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3184828857]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

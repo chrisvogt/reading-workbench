@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>1049813065</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5043</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">28815</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bVcJ-BG2oWzXShUpnw7z5w</uri>
+  <title>The Pillars of the Earth (Kingsbridge, #1)</title>
+  <title_without_series>The Pillars of the Earth</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100l/5043._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100l/5043._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth</link>
+  <num_pages>976</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>NAL Trade</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>711991</ratings_count>
+  <description>&lt;b&gt;Ken Follett is known worldwide as the master of split-second suspense, but his most beloved and bestselling book tells the magnificent tale of a twelfth-century monk driven to do the seemingly impossible: build the greatest Gothic cathedral the world has ever known.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Everything readers expect from Follett is here: intrigue, fast-paced action, and passionate romance. But what makes &lt;i&gt;The Pillars of the Earth&lt;/i&gt; extraordinary is the time the twelfth century; the place feudal England; and the subject the building of a glorious cathedral. Follett has re-created the crude, flamboyant England of the Middle Ages in every detail. The vast forests, the walled towns, the castles, and the monasteries become a familiar landscape. &lt;br /&gt;&lt;br /&gt;Against this richly imagined and intricately interwoven backdrop, filled with the ravages of war and the rhythms of daily life, the master storyteller draws the reader irresistibly into the intertwined lives of his characters into their dreams, their labors, and their loves: Tom, the master builder; Aliena, the ravishingly beautiful noblewoman; Philip, the prior of Kingsbridge; Jack, the artist in stone; and Ellen, the woman of the forest who casts a terrifying curse. From humble stonemason to imperious monarch, each character is brought vividly to life.&lt;br /&gt;&lt;br /&gt;The building of the cathedral, with the almost eerie artistry of the unschooled stonemasons, is the center of the drama. Around the site of the construction, Follett weaves a story of betrayal, revenge, and love, which begins with the public hanging of an innocent man and ends with the humiliation of a king.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;For the TV tie-in edition with the same ISBN go to this &lt;a href="https://www.goodreads.com/book/show/17229203-the-pillars-of-the-earth" rel="nofollow noopener"&gt;Alternate Cover Edition&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>3447</id>
+<name>Ken Follett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1604049089p5/3447.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1604049089p2/3447.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3447.Ken_Follett]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>2249351</ratings_count>
+<text_reviews_count>117870</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>3359698</id>
+  <uri>kca://work/amzn1.gr.work.v1.OjKYQ8Bb9Sk1Om1LTqemFA</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">50286140</id>
+          <page type="integer">611</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Sep 28 14:47:17 -0700 2014</created_at>
+          <updated_at type="datetime">Sun Sep 28 14:47:17 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">3359698</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">50252303</id>
+          <page type="integer">523</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Sep 27 23:10:38 -0700 2014</created_at>
+          <updated_at type="datetime">Sat Sep 27 23:10:38 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">53</percent>
+          <work_id type="integer">3359698</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">50245798</id>
+          <page type="integer">449</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Sep 27 19:55:15 -0700 2014</created_at>
+          <updated_at type="datetime">Sat Sep 27 19:55:15 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">46</percent>
+          <work_id type="integer">3359698</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">49984427</id>
+          <page type="integer">359</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 22 13:50:18 -0700 2014</created_at>
+          <updated_at type="datetime">Mon Sep 22 13:50:18 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">36</percent>
+          <work_id type="integer">3359698</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">49980728</id>
+          <page type="integer">307</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 22 12:20:40 -0700 2014</created_at>
+          <updated_at type="datetime">Mon Sep 22 12:20:40 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">31</percent>
+          <work_id type="integer">3359698</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">49490734</id>
+          <page type="integer">167</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Sep 11 00:10:35 -0700 2014</created_at>
+          <updated_at type="datetime">Thu Sep 11 00:10:35 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">17</percent>
+          <work_id type="integer">3359698</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">49443788</id>
+          <page type="integer">158</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Sep 09 22:38:02 -0700 2014</created_at>
+          <updated_at type="datetime">Tue Sep 09 22:38:02 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">16</percent>
+          <work_id type="integer">3359698</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">49396561</id>
+          <page type="integer">61</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Sep 08 21:20:01 -0700 2014</created_at>
+          <updated_at type="datetime">Mon Sep 08 21:20:01 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">6</percent>
+          <work_id type="integer">3359698</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">589104124</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Sep 30 17:11:55 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">565129459</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Sep 08 21:19:33 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264321181' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 08 00:00:00 -0700 2014</started_at>
+  <read_at>Tue Sep 30 00:00:00 -0700 2014</read_at>
+  <date_added>Mon Sep 08 21:19:33 -0700 2014</date_added>
+  <date_updated>Fri Dec 07 20:41:24 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1049813065]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1049813065]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

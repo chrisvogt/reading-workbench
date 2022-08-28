@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2620984489</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">562997</id>
+  <isbn>0060929383</isbn>
+  <isbn13>9780060929381</isbn13>
+  <text_reviews_count type="integer">74</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.PpFNsobUixTSzHczHQtkfw</uri>
+  <title>More Tales of the City (Tales of the City, #2)</title>
+  <title_without_series>More Tales of the City</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644748045l/562997._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644748045l/562997._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/562997.More_Tales_of_the_City</link>
+  <num_pages>340</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Perennial</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>16379</ratings_count>
+  <description>&lt;strong&gt;Inspiration for the Netflix Limited Series, &lt;em&gt;Tales of the City&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;The second novel in the beloved &lt;em&gt;Tales of the City&lt;/em&gt; series, Armistead Maupin’s best-selling San Francisco saga.&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;The tenants of 28 Barbary Lane have fled their cozy nest for adventures far afield. Mary Ann Singleton finds love at sea with a forgetful stranger, Mona Ramsey discovers her doppelgänger in a desert whorehouse, and Michael Tolliver bumps into his favorite gynecologist in a Mexican bar. Meanwhile, their venerable landlady takes the biggest journey of all—without ever leaving home.</description>
+<authors>
+<author>
+<id>10022</id>
+<name>Armistead Maupin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534626007p5/10022.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534626007p2/10022.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10022.Armistead_Maupin]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>134685</ratings_count>
+<text_reviews_count>8987</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2569715</id>
+  <uri>kca://work/amzn1.gr.work.v1.yiQJcnRdAEwBtvVEBUzetw</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">231236661</id>
+          <page type="integer">181</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Jul 06 13:13:24 -0700 2019</created_at>
+          <updated_at type="datetime">Sat Jul 06 13:13:24 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">53</percent>
+          <work_id type="integer">2569715</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">230785510</id>
+          <page type="integer">55</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jul 03 09:11:05 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Jul 03 09:11:05 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">16</percent>
+          <work_id type="integer">2569715</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">229846151</id>
+          <page type="integer">16</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jun 26 23:44:28 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Jun 26 23:44:28 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">2569715</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">3005201521</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jul 06 18:04:12 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">2989005638</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Jun 26 23:44:18 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">2654893795</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sun Dec 09 13:49:58 -0800 2018</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2266108475' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jun 26 23:44:18 -0700 2019</started_at>
+  <read_at>Sat Jul 06 18:04:12 -0700 2019</read_at>
+  <date_added>Sun Dec 09 13:49:57 -0800 2018</date_added>
+  <date_updated>Sat Jul 06 18:04:13 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2620984489]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2620984489]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

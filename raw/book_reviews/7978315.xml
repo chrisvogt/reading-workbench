@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>4603938115</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">7978315</id>
+  <isbn>0061470880</isbn>
+  <isbn13>9780061470882</isbn13>
+  <text_reviews_count type="integer">605</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7drqv6J6igSZFo03NBHwrA</uri>
+  <title>Mary Ann in Autumn (Tales of the City, #8)</title>
+  <title_without_series>Mary Ann in Autumn</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1278046571l/7978315._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1278046571l/7978315._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7978315-mary-ann-in-autumn</link>
+  <num_pages>304</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>6279</ratings_count>
+  <description>A hilarious and touching new installment of Armistead Maupin's beloved Tales of the City series&lt;br /&gt;&lt;br /&gt;Twenty years have passed since Mary Ann Singleton left her husband and child in San Francisco to pursue her dream of a television career in New York. Now a pair of personal calamities has driven her back to the city of her youth and into the arms of her oldest friend, Michael "Mouse" Tolliver, a gardener happily ensconced with his much-younger husband.&lt;br /&gt;&lt;br /&gt;Mary Ann finds temporary refuge in the couple's backyard cottage, where, at the unnerving age of fifty-seven, she licks her wounds and takes stock of her mistakes. Soon, with the help of Facebook and a few old friends, she begins to reengage with life, only to confront fresh terrors when her checkered past comes back to haunt her in a way she could never have imagined.&lt;br /&gt;&lt;br /&gt;After the intimate first-person narrative of Maupin's last novel, Michael Tolliver Lives, Mary Ann in Autumn marks the author's return to the multicharacter plotlines and darkly comic themes of his earlier work. Among those caught in Mary Ann's orbit are her estranged daughter, Shawna, a popular sex blogger; Jake Greenleaf, Michael's transgendered gardening assistant; socialite DeDe Halcyon-Wilson; and the indefatigable Anna Madrigal, Mary Ann's former landlady at 28 Barbary Lane.&lt;br /&gt;&lt;br /&gt;More than three decades in the making, Armistead Maupin's legendary Tales of the City series rolls into a new age, still sassy, irreverent, and curious, and still exploring the boundaries of the human experience with insight, compassion, and mordant wit.</description>
+<authors>
+<author>
+<id>10022</id>
+<name>Armistead Maupin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534626007p5/10022.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534626007p2/10022.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10022.Armistead_Maupin]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>134685</ratings_count>
+<text_reviews_count>8987</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>6459086</id>
+  <uri>kca://work/amzn1.gr.work.v1.trk15lges3LYDFCyAxwuWQ</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">465777929</id>
+          <page type="integer">202</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Mar 12 14:53:55 -0800 2022</created_at>
+          <updated_at type="datetime">Sat Mar 12 14:53:55 -0800 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">66</percent>
+          <work_id type="integer">6459086</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">465755243</id>
+          <page type="integer">124</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Mar 12 13:54:17 -0800 2022</created_at>
+          <updated_at type="datetime">Sat Mar 12 13:54:17 -0800 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">40</percent>
+          <work_id type="integer">6459086</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">465747227</id>
+          <page type="integer">106</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Mar 12 13:32:45 -0800 2022</created_at>
+          <updated_at type="datetime">Sat Mar 12 13:32:45 -0800 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">34</percent>
+          <work_id type="integer">6459086</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">465695417</id>
+          <page type="integer">45</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Mar 12 10:57:03 -0800 2022</created_at>
+          <updated_at type="datetime">Sat Mar 12 10:57:03 -0800 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">6459086</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">5313891587</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Mar 18 09:29:44 -0700 2022</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">5297761774</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Mar 12 10:56:40 -0800 2022</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 12 10:56:40 -0800 2022</started_at>
+  <read_at>Fri Mar 18 09:29:44 -0700 2022</read_at>
+  <date_added>Sat Mar 12 10:56:40 -0800 2022</date_added>
+  <date_updated>Fri Mar 18 09:29:44 -0700 2022</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/4603938115]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/4603938115]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

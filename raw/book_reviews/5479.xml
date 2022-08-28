@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>656271990</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">5479</id>
+  <isbn>0060776099</isbn>
+  <isbn13>9780060776091</isbn13>
+  <text_reviews_count type="integer">1345</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.L76fQORr1LUtMEx2OArK_w</uri>
+  <title>Brave New World / Brave New World Revisited</title>
+  <title_without_series>Brave New World / Brave New World Revisited</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331315450l/5479._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331315450l/5479._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5479.Brave_New_World_Brave_New_World_Revisited</link>
+  <num_pages>340</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>155422</ratings_count>
+  <description>The astonishing novel &lt;i&gt;Brave New World&lt;/i&gt;, originally published in 1932, presents Aldous Huxley's vision of the future--of a world utterly transformed. Through the most efficient scientific and psychological engineering, people are genetically designed to be passive and therefore consistently useful to the ruling class. This powerful work of speculative fiction sheds a blazing critical light on the present and is considered to be Aldous Huxley's most enduring masterpiece.&lt;br /&gt;&lt;br /&gt;The non-fiction work &lt;i&gt;Brave New World Revisited&lt;/i&gt;, published in 1958, is a fascinating work in which Huxley uses his tremendous knowledge of human relations to compare the modern-day world with his prophetic fantasy envisioned in &lt;i&gt;Brave New World&lt;/i&gt;, including the threats to humanity, such as over-population, propaganda, and chemical persuasion.</description>
+<authors>
+<author>
+<id>3487</id>
+<name>Aldous Huxley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547138835p5/3487.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547138835p2/3487.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3487.Aldous_Huxley]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>1996849</ratings_count>
+<text_reviews_count>51238</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>39947767</id>
+  <uri>kca://work/amzn1.gr.work.v1.NWQAWBUQ6uESKppjuJ3S1g</uri>
+</work></book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">73150014</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jul 01 15:56:26 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2010</read_at>
+  <date_added>Mon Jul 01 15:56:26 -0700 2013</date_added>
+  <date_updated>Wed Jan 29 11:53:27 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/656271990]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/656271990]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

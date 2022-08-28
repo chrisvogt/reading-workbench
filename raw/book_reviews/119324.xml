@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>656277277</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">119324</id>
+  <isbn>0679879250</isbn>
+  <isbn13>9780679879251</isbn13>
+  <text_reviews_count type="integer">5288</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.prB-5GeNQeVQsP0JvpXG7Q</uri>
+  <title>The Subtle Knife (His Dark Materials, #2)</title>
+  <title_without_series>The Subtle Knife</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766360l/119324._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766360l/119324._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/119324.The_Subtle_Knife</link>
+  <num_pages>326</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First American Edition</edition_information>
+  <publisher>Alfred A. Knopf Books for Young Readers</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>409979</ratings_count>
+  <description>Lost in a new world, Lyra finds Will—a boy on the run, a murderer—a worthy and welcome ally. For this is a world where soul-eating Specters stalk the streets and witches share the skies with troops of angels.&lt;br /&gt;&lt;br /&gt;Each is searching—Lyra for the meaning of Dark Matter, Will for his missing father—but what they find instead is a deadly secret, a knife of untold power. And neither Lyra nor Will suspects how tightly their lives, their loves, and their destinies are bound together... until they are split apart.</description>
+<authors>
+<author>
+<id>3618</id>
+<name>Philip Pullman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1614625372p5/3618.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1614625372p2/3618.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3618.Philip_Pullman]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>2701217</ratings_count>
+<text_reviews_count>83551</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>1570229</id>
+  <uri>kca://work/amzn1.gr.work.v1.7k_V72uCPiQSghtoAnSlng</uri>
+</work></book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">73157258</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jul 01 16:03:24 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264309503' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jan 01 00:00:00 -0800 2009</read_at>
+  <date_added>Mon Jul 01 16:03:24 -0700 2013</date_added>
+  <date_updated>Fri Dec 07 20:25:01 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/656277277]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/656277277]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

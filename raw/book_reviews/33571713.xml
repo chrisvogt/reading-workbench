@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2287573325</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">33571713</id>
+  <isbn>052595497X</isbn>
+  <isbn13>9780525954972</isbn13>
+  <text_reviews_count type="integer">4433</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.o662V1kLoP6hd2CbLnkljw</uri>
+  <title>A Column of Fire (Kingsbridge, #3)</title>
+  <title_without_series>A Column of Fire</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597750114l/33571713._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597750114l/33571713._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33571713-a-column-of-fire</link>
+  <num_pages>916</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Viking Penguin</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>91418</ratings_count>
+  <description>&lt;b&gt;As Europe erupts, can one young spy protect his queen? Ken Follett takes us deep into the treacherous world of powerful monarchs, intrigue, murder, and treason with his magnificent epic, &lt;i&gt;A Column of Fire&lt;/i&gt;—the chronological latest in the Kingsbridge series, following &lt;i&gt;The Pillars of the Earth&lt;/i&gt;, &lt;i&gt;World Without End&lt;/i&gt;, and the prequel, &lt;i&gt;The Evening and the Morning&lt;/i&gt;.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In 1558, the ancient stones of Kingsbridge Cathedral look down on a city torn apart by religious conflict. As power in England shifts precariously between Catholics and Protestants, royalty and commoners clash, testing friendship, loyalty, and love. &lt;br /&gt; &lt;br /&gt;Ned Willard wants nothing more than to marry Margery Fitzgerald. But when the lovers find themselves on opposing sides of the religious conflict dividing the country, Ned goes to work for Princess Elizabeth. When she becomes queen, all Europe turns against England. The shrewd, determined young monarch sets up the country’s first secret service to give her early warning of assassination plots, rebellions, and invasion plans. Over a turbulent half century, the love between Ned and Margery seems doomed as extremism sparks violence from Edinburgh to Geneva. Elizabeth clings to her throne and her principles, protected by a small, dedicated group of resourceful spies and courageous secret agents.&lt;br /&gt; &lt;br /&gt;The real enemies, then as now, are not the rival religions. The true battle pitches those who believe in tolerance and compromise against the tyrants who would impose their ideas on everyone else—no matter what the cost.&lt;br /&gt; &lt;br /&gt;Exciting and ambitious, and set during one of the most turbulent and revolutionary times in history, &lt;i&gt;A Column of Fire&lt;/i&gt; will delight longtime fans of the Kingsbridge series and serve as the perfect introduction for readers new to Ken Follett.</description>
+<authors>
+<author>
+<id>3447</id>
+<name>Ken Follett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1604049089p5/3447.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1604049089p2/3447.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3447.Ken_Follett]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>2249351</ratings_count>
+<text_reviews_count>117870</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>50861690</id>
+  <uri>kca://work/amzn1.gr.work.v1.mC96moPT3WToV9fp631hiw</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">164803773</id>
+          <page type="integer">855</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Mar 06 19:00:46 -0800 2018</created_at>
+          <updated_at type="datetime">Tue Mar 06 19:00:46 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">92</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">164590692</id>
+          <page type="integer">803</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Mar 05 09:28:53 -0800 2018</created_at>
+          <updated_at type="datetime">Mon Mar 05 09:28:53 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">86</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">164225580</id>
+          <page type="integer">723</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Mar 02 13:04:51 -0800 2018</created_at>
+          <updated_at type="datetime">Fri Mar 02 13:04:51 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">77</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">164130486</id>
+          <page type="integer">677</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Mar 01 18:13:50 -0800 2018</created_at>
+          <updated_at type="datetime">Thu Mar 01 18:13:50 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">72</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">164075082</id>
+          <page type="integer">625</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Mar 01 09:29:12 -0800 2018</created_at>
+          <updated_at type="datetime">Thu Mar 01 09:29:12 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">67</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">163669108</id>
+          <page type="integer">551</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Feb 26 10:37:18 -0800 2018</created_at>
+          <updated_at type="datetime">Mon Feb 26 10:37:18 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">59</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">163015786</id>
+          <page type="integer">451</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Feb 21 13:13:40 -0800 2018</created_at>
+          <updated_at type="datetime">Wed Feb 21 13:13:40 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">48</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">162996010</id>
+          <page type="integer">405</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Feb 21 10:24:30 -0800 2018</created_at>
+          <updated_at type="datetime">Wed Feb 21 10:24:30 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">43</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">162850608</id>
+          <page type="integer">385</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Feb 20 10:13:00 -0800 2018</created_at>
+          <updated_at type="datetime">Tue Feb 20 10:13:00 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">41</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">162690436</id>
+          <page type="integer">332</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Feb 19 09:04:53 -0800 2018</created_at>
+          <updated_at type="datetime">Mon Feb 19 09:04:53 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">35</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">162324869</id>
+          <page type="integer">326</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Feb 16 13:48:00 -0800 2018</created_at>
+          <updated_at type="datetime">Fri Feb 16 13:48:00 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">35</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">162164101</id>
+          <page type="integer">251</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Feb 15 08:43:23 -0800 2018</created_at>
+          <updated_at type="datetime">Thu Feb 15 08:43:23 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">27</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">161761658</id>
+          <page type="integer">135</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Feb 12 09:42:59 -0800 2018</created_at>
+          <updated_at type="datetime">Mon Feb 12 09:42:59 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">161377439</id>
+          <page type="integer">91</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Feb 09 13:53:46 -0800 2018</created_at>
+          <updated_at type="datetime">Fri Feb 09 13:53:46 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">9</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">161029689</id>
+          <page type="integer">51</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Feb 07 02:19:01 -0800 2018</created_at>
+          <updated_at type="datetime">Wed Feb 07 02:19:01 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">5</percent>
+          <work_id type="integer">50861690</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">2259372018</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Mar 09 17:56:45 -0800 2018</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">2213479250</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Feb 07 02:18:51 -0800 2018</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264293500' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Feb 07 02:18:50 -0800 2018</started_at>
+  <read_at>Fri Mar 09 17:56:44 -0800 2018</read_at>
+  <date_added>Wed Feb 07 02:18:50 -0800 2018</date_added>
+  <date_updated>Fri Dec 07 20:03:44 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2287573325]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2287573325]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

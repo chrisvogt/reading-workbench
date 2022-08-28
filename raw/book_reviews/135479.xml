@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2248489384</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">135479</id>
+  <isbn>0140285601</isbn>
+  <isbn13>9780140285604</isbn13>
+  <text_reviews_count type="integer">8399</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-LGvzGcchlNMh0L-pCq4Kw</uri>
+  <title>Cat's Cradle</title>
+  <title_without_series>Cat's Cradle</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867150l/135479._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867150l/135479._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/135479.Cat_s_Cradle</link>
+  <num_pages>179</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin</publisher>
+  <publication_day/>
+  <publication_year>1999</publication_year>
+  <publication_month/>
+  <average_rating>4.16</average_rating>
+  <ratings_count>371550</ratings_count>
+  <description>&lt;b&gt;Told with deadpan humour and bitter irony, Kurt Vonnegut's cult tale of global destruction preys on our deepest fears of witnessing Armageddon and, worse still, surviving it ...&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Dr Felix Hoenikker, one of the founding 'fathers' of the atomic bomb, has left a deadly legacy to the world. For he's the inventor of 'ice-nine', a lethal chemical capable of freezing the entire planet. The search for its whereabouts leads to Hoenikker's three ecentric children, to a crazed dictator in the Caribbean, to madness. Felix Hoenikker's Death Wish comes true when his last, fatal gift to humankind brings about the end, that for all of us, is nigh...</description>
+<authors>
+<author>
+<id>2778055</id>
+<name>Kurt Vonnegut Jr.</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1433582280p5/2778055.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1433582280p2/2778055.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut_Jr_]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>2755279</ratings_count>
+<text_reviews_count>97947</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>1621115</id>
+  <uri>kca://work/amzn1.gr.work.v1.6UUWm0nuY4_sc042BQRNfA</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">157171819</id>
+          <page type="integer">180</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Jan 12 12:33:24 -0800 2018</created_at>
+          <updated_at type="datetime">Fri Jan 12 12:33:24 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">58</percent>
+          <work_id type="integer">1621115</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">156830476</id>
+          <page type="integer">103</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jan 10 09:09:54 -0800 2018</created_at>
+          <updated_at type="datetime">Wed Jan 10 09:09:54 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">33</percent>
+          <work_id type="integer">1621115</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">156662218</id>
+          <page type="integer">76</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jan 09 09:09:27 -0800 2018</created_at>
+          <updated_at type="datetime">Tue Jan 09 09:09:27 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">24</percent>
+          <work_id type="integer">1621115</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">156493134</id>
+          <page type="integer">50</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jan 08 09:26:59 -0800 2018</created_at>
+          <updated_at type="datetime">Mon Jan 08 09:26:59 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">16</percent>
+          <work_id type="integer">1621115</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">156400929</id>
+          <page type="integer">27</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Jan 07 18:32:05 -0800 2018</created_at>
+          <updated_at type="datetime">Sun Jan 07 18:32:05 -0800 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">8</percent>
+          <work_id type="integer">1621115</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">2173763953</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 14 02:11:12 -0800 2018</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">2162749446</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Jan 07 18:31:01 -0800 2018</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264299115' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jan 07 00:00:00 -0800 2018</started_at>
+  <read_at>Sun Jan 14 02:11:21 -0800 2018</read_at>
+  <date_added>Sun Jan 07 18:31:00 -0800 2018</date_added>
+  <date_updated>Fri Dec 07 20:10:59 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2248489384]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2248489384]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

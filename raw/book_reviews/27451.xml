@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>1064642272</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">27451</id>
+  <isbn>0684801523</isbn>
+  <isbn13>9780684801520</isbn13>
+  <text_reviews_count type="integer">1112</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.QHc1WfgAOZ9pJvq8Qunv_g</uri>
+  <title>The Great Gatsby</title>
+  <title_without_series>The Great Gatsby</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561941384l/27451._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561941384l/27451._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27451.The_Great_Gatsby</link>
+  <num_pages>216</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scribner</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1995</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.93</average_rating>
+  <ratings_count>4560156</ratings_count>
+  <description>This is the definitive, textually accurate edition of a classic of twentieth-century literature, The Great Gatsby. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan has been acclaimed by generations of readers. But the first edition contained a number of errors resulting from Fitzgerald's extensive revisions and a rushed production schedule. Subsequent printings introduced further departures from the author's words. This edition, based on the Cambridge critical text, restores all the language of Fitzgerald's masterpiece. Drawing on the manuscript and surviving proofs of the novel, along with Fitzgerald's later revisions and corrections, this is the authorized text -- The Great Gatsby as Fitzgerald intended it.</description>
+<authors>
+<author>
+<id>3190</id>
+<name>F. Scott Fitzgerald</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1517864008p5/3190.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1517864008p2/3190.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>4990519</ratings_count>
+<text_reviews_count>114209</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+<work>  <id>245494</id>
+  <uri>kca://work/amzn1.gr.work.v1.56BQMsZ2-7G__6NkMx9vWg</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">50158967</id>
+          <page type="integer">96</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Sep 26 01:46:26 -0700 2014</created_at>
+          <updated_at type="datetime">Fri Sep 26 01:46:26 -0700 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">53</percent>
+          <work_id type="integer">245494</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">584722539</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Sep 26 16:53:10 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">584063639</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Sep 26 01:45:50 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Sep 26 00:00:00 -0700 2014</started_at>
+  <read_at>Fri Sep 26 16:54:49 -0700 2014</read_at>
+  <date_added>Fri Sep 26 01:45:49 -0700 2014</date_added>
+  <date_updated>Fri Sep 26 16:54:49 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Decided yesterday that this book looks like a one day read. So I set aside a day from my other books and read it. The most recent movie leaves out nearly the entire conclusion! However, it appears there are 5 film adaptations of The Great Gatsby - perhaps another is more true to the book?]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1064642272]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1064642272]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

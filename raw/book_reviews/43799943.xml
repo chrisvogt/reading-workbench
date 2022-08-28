@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2916357750</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">43799943</id>
+  <isbn>1596069198</isbn>
+  <isbn13>9781596069190</isbn13>
+  <text_reviews_count type="integer">77</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UBHjOofHIgDNguHlzr_IeA</uri>
+  <title>Atmosphaera Incognita</title>
+  <title_without_series>Atmosphaera Incognita</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549535855l/43799943._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549535855l/43799943._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43799943-atmosphaera-incognita</link>
+  <num_pages>104</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Subterranean Press</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>1543</ratings_count>
+  <description>For more than two decades, Neal Stephenson has been the reigning master of the epic fictional narrative. His vast, intellectually rigorous books have ranged in setting from the distant past (The Baroque Cycle) to the modern era (&lt;i&gt;Reamde&lt;/i&gt;) to the remote future (&lt;i&gt;Anathem&lt;/i&gt;, &lt;i&gt;Seveneves&lt;/i&gt;). But when Stephenson turns his attention to shorter forms, the results can be every bit as impressive, as this dazzling novella—itself a kind of tightly compressed epic—clearly indicates. &lt;b&gt;Atmosphæra Incognita&lt;/b&gt; is a beautifully detailed, high-tech rendering of a tale as old as the Biblical Tower of Babel. It is an account, scrupulously imagined, of the years-long construction of a twenty-kilometer-high tower that will bring the human enterprise, in all its complexity, to the threshold of outer space. It is a story of persistence, of visionary imaginings, of the ceaseless technological innovation needed to bring these imaginings to life. At the same time, it shows us our familiar planet from an entirely new perspective, and offers vivid snapshots of the unique beauties and unexpected hazards of the “atmosphæra incognita” that lies between this world and “the deep ocean of the cosmos.” The result is pure pleasure, pure excitement, pure Neal Stephenson. No one with an interest in Stephenson's work, or in science fiction at its most thoughtful and ambitious, can afford to miss this latest edition to an extraordinary body of work.</description>
+<authors>
+<author>
+<id>545</id>
+<name>Neal Stephenson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430920344p5/545.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430920344p2/545.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/545.Neal_Stephenson]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>910968</ratings_count>
+<text_reviews_count>58069</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>68150209</id>
+  <uri>kca://work/amzn1.gr.work.v1.jiDAekEIixHrzF8sFcoUqw</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">234902708</id>
+          <page type="integer">26</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 29 17:58:21 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Jul 29 17:58:21 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">25</percent>
+          <work_id type="integer">68150209</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">3048798551</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jul 31 11:59:26 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">3045567425</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Jul 29 17:58:04 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jul 29 17:58:03 -0700 2019</started_at>
+  <read_at>Wed Jul 31 11:59:27 -0700 2019</read_at>
+  <date_added>Mon Jul 29 17:58:02 -0700 2019</date_added>
+  <date_updated>Wed Jul 31 11:59:27 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2916357750]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2916357750]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

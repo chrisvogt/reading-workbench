@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>4160516274</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">41160292</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">6279</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.rdRpMI_c2rg5WxzUEwp5Mw</uri>
+  <title>Exhalation</title>
+  <title_without_series>Exhalation</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41160292-exhalation</link>
+  <num_pages>368</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>70493</ratings_count>
+  <description>In these nine stunningly original, provocative, and poignant stories, Ted Chiang tackles some of humanity’s oldest questions along with new quandaries only he could imagine.&lt;br /&gt;&lt;br /&gt;In "The Merchant and the Alchemist's Gate," a portal through time forces a fabric seller in ancient Baghdad to grapple with past mistakes and second chances. In "Exhalation," an alien scientist makes a shocking discovery with ramifications that are literally universal. In "Anxiety Is the Dizziness of Freedom," the ability to glimpse into alternate universes necessitates a radically new examination of the concepts of choice and free will.&lt;br /&gt;&lt;br /&gt;Including stories being published for the first time as well as some of his rare and classic uncollected work, &lt;i&gt;Exhalation&lt;/i&gt; is Ted Chiang at his best: profound, sympathetic—revelatory.</description>
+<authors>
+<author>
+<id>130698</id>
+<name>Ted Chiang</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399023404p5/130698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399023404p2/130698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/130698.Ted_Chiang]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>189449</ratings_count>
+<text_reviews_count>23155</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>64336454</id>
+  <uri>kca://work/amzn1.gr.work.v1.-JHTggBT0WbSvFg-_7a1AA</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">411224043</id>
+          <page type="integer">311</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Oct 06 19:20:10 -0700 2021</created_at>
+          <updated_at type="datetime">Wed Oct 06 19:20:10 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">88</percent>
+          <work_id type="integer">64336454</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">402187132</id>
+          <page type="integer">132</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Sep 01 18:37:40 -0700 2021</created_at>
+          <updated_at type="datetime">Wed Sep 01 18:37:40 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">37</percent>
+          <work_id type="integer">64336454</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">399478910</id>
+          <page type="integer">104</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Aug 22 23:50:02 -0700 2021</created_at>
+          <updated_at type="datetime">Sun Aug 22 23:50:02 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">64336454</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">398830550</id>
+          <page type="integer">88</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Aug 20 15:58:13 -0700 2021</created_at>
+          <updated_at type="datetime">Fri Aug 20 15:58:13 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">25</percent>
+          <work_id type="integer">64336454</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">395844567</id>
+          <page type="integer">37</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Aug 10 07:24:43 -0700 2021</created_at>
+          <updated_at type="datetime">Tue Aug 10 07:24:43 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">10</percent>
+          <work_id type="integer">64336454</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">395290249</id>
+          <page type="integer">27</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Aug 08 12:01:40 -0700 2021</created_at>
+          <updated_at type="datetime">Sun Aug 08 12:01:40 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">7</percent>
+          <work_id type="integer">64336454</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">394983726</id>
+          <page type="integer">17</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Aug 07 09:41:03 -0700 2021</created_at>
+          <updated_at type="datetime">Sat Aug 07 09:41:03 -0700 2021</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">64336454</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">5056491930</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Dec 30 23:42:58 -0800 2021</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">4699020011</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Aug 07 09:40:52 -0700 2021</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Aug 07 09:40:52 -0700 2021</started_at>
+  <read_at>Thu Dec 30 23:42:57 -0800 2021</read_at>
+  <date_added>Sat Aug 07 09:40:52 -0700 2021</date_added>
+  <date_updated>Thu Dec 30 23:42:58 -0800 2021</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/4160516274]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/4160516274]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>1175408064</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">7082</id>
+  <isbn>0345404475</isbn>
+  <isbn13>9780345404473</isbn13>
+  <text_reviews_count type="integer">8242</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.E-BSx4-7_dQupxRqJI5kMg</uri>
+  <title>Do Androids Dream of Electric Sheep?</title>
+  <title_without_series>Do Androids Dream of Electric Sheep?</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519481930l/7082._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519481930l/7082._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_</link>
+  <num_pages>244</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Del Rey / Ballantine Books</publisher>
+  <publication_day/>
+  <publication_year>1996</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>404239</ratings_count>
+  <description>It was January 2021, and Rick Deckard had a license to kill.&lt;br /&gt;Somewhere among the hordes of humans out there, lurked several rogue androids. Deckard's assignment--find them and then..."retire" them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found!</description>
+<authors>
+<author>
+<id>4764</id>
+<name>Philip K. Dick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1633698608p5/4764.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1633698608p2/4764.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4764.Philip_K_Dick]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>1233919</ratings_count>
+<text_reviews_count>67342</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>830939</id>
+  <uri>kca://work/amzn1.gr.work.v1.cTEFssaxl9nUt_esFJPQfw</uri>
+</work></book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">919926309</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jul 04 19:52:08 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">919753716</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Jul 04 16:06:16 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">724239747</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Tue Jan 20 22:21:46 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jul 04 00:00:00 -0700 2015</started_at>
+  <read_at>Sat Jul 04 16:08:51 -0700 2015</read_at>
+  <date_added>Tue Jan 20 22:21:46 -0800 2015</date_added>
+  <date_updated>Sat Jul 04 19:52:07 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I was just sucked into the story and read the entire book in one sitting.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1175408064]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1175408064]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

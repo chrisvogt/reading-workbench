@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>1222004433</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">281818</id>
+  <isbn>0684832674</isbn>
+  <isbn13>9780684832678</isbn13>
+  <text_reviews_count type="integer">237</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6nVL-xp0v3tm9-KBqK6Xdw</uri>
+  <title>Where Wizards Stay Up Late: The Origins of the Internet</title>
+  <title_without_series>Where Wizards Stay Up Late: The Origins of the Internet</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405259838l/281818._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405259838l/281818._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Simon  Schuster</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>4371</ratings_count>
+  <description>Twenty five years ago, it didn't exist. Today, twenty million people worldwide are surfing the Net. Where Wizards Stay Up Late is the exciting story of the pioneers responsible for creating the most talked about, most influential, and most far-reaching communications breakthrough since the invention of the telephone. &lt;br /&gt;&lt;br /&gt;In the 1960's, when computers where regarded as mere giant calculators, J.C.R. Licklider at MIT saw them as the ultimate communications devices. With Defense Department funds, he and a band of visionary computer whizzes began work on a nationwide, interlocking network of computers. Taking readers behind the scenes, Where Wizards Stay Up Late captures the hard work, genius, and happy accidents of their daring, stunningly successful venture.</description>
+<authors>
+<author>
+<id>6938812</id>
+<name>Katie Hafner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361309234p5/6938812.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361309234p2/6938812.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6938812.Katie_Hafner]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>9761</ratings_count>
+<text_reviews_count>988</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>1290875</id>
+  <uri>kca://work/amzn1.gr.work.v1.-fbtsLMX9LYPITTS45TfNg</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">61401585</id>
+          <page type="integer">96</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Mar 08 22:41:41 -0700 2015</created_at>
+          <updated_at type="datetime">Sun Mar 08 22:41:41 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">1290875</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">61352922</id>
+          <page type="integer">51</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Mar 08 11:43:13 -0700 2015</created_at>
+          <updated_at type="datetime">Sun Mar 08 11:43:13 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">1290875</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">798830313</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Mar 20 21:05:35 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">784551846</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun Mar 08 11:42:40 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264336617' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 08 00:00:00 -0800 2015</started_at>
+  <read_at>Fri Mar 20 00:00:00 -0700 2015</read_at>
+  <date_added>Sun Mar 08 11:42:40 -0700 2015</date_added>
+  <date_updated>Fri Dec 07 21:03:50 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Really great book; reads more like prose than typical non-fiction. I wrote up a short review here: <a target="_blank" href="http://www.chrisvogt.me/book-reviews/where-wizards-stay-up-late/" rel="nofollow noopener">http://www.chrisvogt.me/book-reviews/...</a>]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1222004433]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1222004433]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

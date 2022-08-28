@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2348145011</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">14817</id>
+  <isbn>057507681X</isbn>
+  <isbn13>9780575076815</isbn13>
+  <text_reviews_count type="integer">2323</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vPJ6Jlz3dFATcFkz_D_y5A</uri>
+  <title>A Scanner Darkly</title>
+  <title_without_series>A Scanner Darkly</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14817.A_Scanner_Darkly</link>
+  <num_pages>219</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Gollancz</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>98464</ratings_count>
+  <description>Substance D is not known as Death for nothing. It is the most toxic drug ever to find its way on to the streets of LA. It destroys the links between the brain's two hemispheres, causing, first, disorientation and then complete and irreversible brain damage.&lt;br /&gt;&lt;br /&gt;The undercover narcotics agent who calls himself Bob Arctor is desperate to discover the ultimate source of supply. But to find any kind of lead he has to pose as a user and, inevitably, without realising what is happening, Arctor is soon as addicted as the junkies he works among...</description>
+<authors>
+<author>
+<id>4764</id>
+<name>Philip K. Dick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1633698608p5/4764.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1633698608p2/4764.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4764.Philip_K_Dick]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>1233919</ratings_count>
+<text_reviews_count>67342</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>1527439</id>
+  <uri>kca://work/amzn1.gr.work.v1.OfOyYTNuREGPa6LROx7M4w</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">169032438</id>
+          <page type="integer">171</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Apr 08 12:19:59 -0700 2018</created_at>
+          <updated_at type="datetime">Sun Apr 08 12:19:59 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">78</percent>
+          <work_id type="integer">1527439</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">168799617</id>
+          <page type="integer">127</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 06 12:15:52 -0700 2018</created_at>
+          <updated_at type="datetime">Fri Apr 06 12:15:52 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">57</percent>
+          <work_id type="integer">1527439</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">168717756</id>
+          <page type="integer">111</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Apr 05 19:05:51 -0700 2018</created_at>
+          <updated_at type="datetime">Thu Apr 05 19:05:51 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">50</percent>
+          <work_id type="integer">1527439</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">168537932</id>
+          <page type="integer">75</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Apr 04 11:22:09 -0700 2018</created_at>
+          <updated_at type="datetime">Wed Apr 04 11:22:09 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">34</percent>
+          <work_id type="integer">1527439</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">168389674</id>
+          <page type="integer">67</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 03 10:28:52 -0700 2018</created_at>
+          <updated_at type="datetime">Tue Apr 03 10:28:52 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">30</percent>
+          <work_id type="integer">1527439</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">168267621</id>
+          <page type="integer">45</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 02 13:21:38 -0700 2018</created_at>
+          <updated_at type="datetime">Mon Apr 02 13:21:38 -0700 2018</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">20</percent>
+          <work_id type="integer">1527439</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">2303239345</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Apr 08 22:38:50 -0700 2018</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">2293569862</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Apr 02 13:21:32 -0700 2018</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='113272308' name='owned' review_shelf_id='2264316848' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Apr 02 13:21:32 -0700 2018</started_at>
+  <read_at>Sun Apr 08 22:38:49 -0700 2018</read_at>
+  <date_added>Mon Apr 02 13:21:32 -0700 2018</date_added>
+  <date_updated>Fri Dec 07 20:35:11 -0800 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2348145011]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2348145011]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

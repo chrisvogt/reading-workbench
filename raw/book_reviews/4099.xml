@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>354868608</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">4099</id>
+  <isbn>020161622X</isbn>
+  <isbn13>9780201616224</isbn13>
+  <text_reviews_count type="integer">971</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jLzxuyNCafJD8jVEw1Ni1g</uri>
+  <title>The Pragmatic Programmer: From Journeyman to Master</title>
+  <title_without_series>The Pragmatic Programmer: From Journeyman to Master</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer</link>
+  <num_pages>321</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Addison-Wesley Professional</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>19281</ratings_count>
+  <description>Straight from the programming trenches, &lt;b&gt;
+  &lt;i&gt;The Pragmatic Programmer&lt;/i&gt;
+&lt;/b&gt; cuts through the increasing specialization and technicalities of modern software development to examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and you'll learn how to&lt;br /&gt;&lt;br /&gt;Fight software rot; Avoid the trap of duplicating knowledge; Write flexible, dynamic, and adaptable code; Avoid programming by coincidence; Bullet-proof your code with contracts, assertions, and exceptions; Capture real requirements; Test ruthlessly and effectively; Delight your users; Build teams of pragmatic programmers; and Make your developments more precise with automation. Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, &lt;b&gt;
+  &lt;i&gt;The Pragmatic Programmer&lt;/i&gt;
+&lt;/b&gt; illustrates the best practices and major pitfalls of many different aspects of software development. Whether you're a new coder, an experienced programmer, or a manager responsible for software projects, use these lessons daily, and you'll quickly see improvements in personal productivity, accuracy, and job satisfaction. You'll learn skills and develop habits and attitudes that form the foundation for long-term success in your career. You'll become a Pragmatic Programmer.</description>
+<authors>
+<author>
+<id>2815</id>
+<name>Andy Hunt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215370372p5/2815.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215370372p2/2815.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2815.Andy_Hunt]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>23779</ratings_count>
+<text_reviews_count>1429</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>7809</id>
+  <uri>kca://work/amzn1.gr.work.v1.cITwkxzDF6mATdtGyefYzA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='34562170' name='technology' review_shelf_id='234528183' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jun 22 00:00:00 -0700 2012</started_at>
+  <read_at>Tue Jun 26 00:00:00 -0700 2012</read_at>
+  <date_added>Sun Jun 24 14:43:25 -0700 2012</date_added>
+  <date_updated>Wed Oct 17 08:27:33 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I consumed 80% of this book in one weekend. Even though it was written 13 years prior to this review, The Pragmatic Programmer is still very relevant and extremely useful in identifying pragmatic ways to strengthen your knowledge-based toolset, similar to a woodworker stepping back and identifying the tools and processes necessary to obtain mastery.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/354868608]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/354868608]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

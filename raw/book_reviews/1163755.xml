@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>656285509</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">1163755</id>
+  <isbn>0345385292</isbn>
+  <isbn13>9780345385291</isbn13>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bWh0Vy7QFB0D6hQsDRDD9Q</uri>
+  <title>Rising Sun / Jurassic Park / Sphere</title>
+  <title_without_series>Rising Sun / Jurassic Park / Sphere</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1163755.Rising_Sun_Jurassic_Park_Sphere</link>
+  <num_pages></num_pages>
+  <format>paper</format>
+  <edition_information/>
+  <publisher>Ballantine Books </publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1993</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>401</ratings_count>
+  <description>Here are three of Michael Crichton's research-intensive thrillers in one dandy box. &lt;i&gt;Rising Sun&lt;/i&gt; was as timely in 1992 as it now seems ironic. It brilliantly taps the early-'90s American terror of Japan's then apparently invincible high-tech economy with a snappy murder mystery. While celebs rub elbows at the opening party of a Japanese high-rise in L.A., a gorgeous woman is murdered in a boardroom far above. Surveillance cameras capture the deed, but looks deceive, and LAPD detective John Conner soon discovers that when these Japanese guys say "business is war," they're not kidding.&lt;p&gt; &lt;i&gt;Jurassic Park&lt;/i&gt;--the famous tale of an entrepreneur who clones dinosaurs who then run amok in what was supposed to be a theme park--is as good a thriller in book form as the movie version, and far more full of the fun, scary ideas that Crichton's books exist to popularize. Malcolm the malcontent scientist is even better than he was in the film. (You might also check out &lt;i&gt;The Science of Jurassic Park and the Lost World&lt;/i&gt;.) &lt;/p&gt;&lt;p&gt; &lt;i&gt;Sphere&lt;/i&gt; concerns an ancient spaceship on the ocean floor, black holes, and the perils of investigating all of the above. Not just sci-fi, &lt;i&gt;Sphere&lt;/i&gt; reflects Crichton's keen interest in the unexplained powers of the human mind. The book also contains a profound lesson: when you're staring down a giant squid with an eyeball the size of a dinner plate, don't blink first.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>5194</id>
+<name>Michael Crichton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1359042651p5/5194.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1359042651p2/5194.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5194.Michael_Crichton]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>2637898</ratings_count>
+<text_reviews_count>74456</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+<work>  <id>1151420</id>
+  <uri>kca://work/amzn1.gr.work.v1.sHZXzzkBM_brTvHuPoae4A</uri>
+</work></book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">73168399</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jul 01 16:14:11 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 01 00:00:00 -0800 2005</read_at>
+  <date_added>Mon Jul 01 16:14:11 -0700 2013</date_added>
+  <date_updated>Mon Jul 01 16:14:18 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/656285509]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/656285509]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>2889254563</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">39927096</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">13223</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Q-P-zzxN1MFPW5OGOms5jg</uri>
+  <title>Less (Arthur Less, #1)</title>
+  <title_without_series>Less</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39927096-less</link>
+  <num_pages>273</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Lee Boudreaux Books</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.66</average_rating>
+  <ratings_count>166254</ratings_count>
+  <description>PROBLEM:&lt;br /&gt;You are a failed novelist about to turn fifty. A wedding invitation arrives in the mail: your boyfriend of the past nine years now engaged to someone else. You can’t say yes--it would all be too awkward--and you can’t say no--it would look like defeat. On your desk are a series of half-baked literary invitations you’ve received from around the world. &lt;br /&gt;&lt;br /&gt;QUESTION: How do you arrange to skip town?&lt;br /&gt;&lt;br /&gt;ANSWER: You accept them all. &lt;br /&gt;&lt;br /&gt;If you are Arthur Less.&lt;br /&gt;&lt;br /&gt;Thus begins an around-the-world-in-eighty-days fantasia that will take Arthur Less to Mexico, Italy, Germany, Morocco, India and Japan and put thousands of miles between him and the problems he refuses to face. What could possibly go wrong?&lt;br /&gt;&lt;br /&gt;Well: Arthur will almost fall in love in Paris, almost fall to his death in Berlin, barely escape to a Moroccan ski chalet from a Sahara sandstorm, accidentally book himself as the (only) writer-in-residence at a Christian Retreat Center in Southern India, and arrive in Japan too late for the cherry blossoms. In between: science fiction fans, crazed academics, emergency rooms, starlets, doctors, exes and, on a desert island in the Arabian Sea, the last person on Earth he wants to see. Somewhere in there: he will turn fifty. The second phase of life, as he thinks of it, falling behind him like the second phase of a rocket. There will be his first love. And there will be his last.&lt;br /&gt;&lt;br /&gt;A love story, a satire of the American abroad, a rumination on time and the human heart, by an author &lt;i&gt;The New York Times&lt;/i&gt; has hailed as “inspired, lyrical,” “elegiac,” “ingenious,” as well as “too sappy by half,” &lt;i&gt;Less&lt;/i&gt; shows a writer at the peak of his talents raising the curtain on our shared human comedy.</description>
+<authors>
+<author>
+<id>24892</id>
+<name>Andrew Sean Greer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1478844086p5/24892.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1478844086p2/24892.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24892.Andrew_Sean_Greer]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>199730</ratings_count>
+<text_reviews_count>23565</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>52588011</id>
+  <uri>kca://work/amzn1.gr.work.v1.faq11-0UbexM9_TZ2KZgjg</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">234379168</id>
+          <page type="integer">224</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Jul 26 10:03:45 -0700 2019</created_at>
+          <updated_at type="datetime">Fri Jul 26 10:03:45 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">82</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">234241337</id>
+          <page type="integer">200</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jul 25 12:22:24 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Jul 25 12:22:24 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">73</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">233735053</id>
+          <page type="integer">186</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 22 12:26:02 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Jul 22 12:26:02 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">68</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">233710198</id>
+          <page type="integer">152</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 22 09:24:25 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Jul 22 09:24:25 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">55</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">233708369</id>
+          <page type="integer">142</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 22 09:10:00 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Jul 22 09:10:00 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">233708366</id>
+          <page type="integer">142</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 22 09:09:59 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Jul 22 09:09:59 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">233108315</id>
+          <page type="integer">113</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jul 18 09:24:22 -0700 2019</created_at>
+          <updated_at type="datetime">Thu Jul 18 09:24:22 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">41</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">232783019</id>
+          <page type="integer">107</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jul 16 09:21:24 -0700 2019</created_at>
+          <updated_at type="datetime">Tue Jul 16 09:21:24 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">39</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">232641518</id>
+          <page type="integer">95</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 15 12:44:23 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Jul 15 12:44:23 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">34</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">232617681</id>
+          <page type="integer">85</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Jul 15 09:47:06 -0700 2019</created_at>
+          <updated_at type="datetime">Mon Jul 15 09:47:06 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">31</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">232157995</id>
+          <page type="integer">69</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Jul 12 07:53:47 -0700 2019</created_at>
+          <updated_at type="datetime">Fri Jul 12 07:53:47 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">25</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">231879091</id>
+          <page type="integer">54</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jul 10 12:36:16 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Jul 10 12:36:16 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">19</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">231853439</id>
+          <page type="integer">34</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jul 10 09:13:53 -0700 2019</created_at>
+          <updated_at type="datetime">Wed Jul 10 09:13:53 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">12</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">231713997</id>
+          <page type="integer">22</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jul 09 12:18:23 -0700 2019</created_at>
+          <updated_at type="datetime">Tue Jul 09 12:18:23 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">8</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">231682460</id>
+          <page type="integer">13</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jul 09 08:20:16 -0700 2019</created_at>
+          <updated_at type="datetime">Tue Jul 09 08:20:16 -0700 2019</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">52588011</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">3043131005</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jul 28 11:33:08 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">3009731887</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Jul 09 08:20:04 -0700 2019</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jul 09 08:20:03 -0700 2019</started_at>
+  <read_at>Sun Jul 28 11:33:09 -0700 2019</read_at>
+  <date_added>Tue Jul 09 08:20:03 -0700 2019</date_added>
+  <date_updated>Sun Jul 28 11:33:09 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2889254563]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2889254563]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>4624632610</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">13538873</id>
+  <isbn>0374214913</isbn>
+  <isbn13>9780374214913</isbn13>
+  <text_reviews_count type="integer">23353</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7-NREZtDwbhF8EhiJjd4RQ</uri>
+  <title>Mr. Penumbra's 24-Hour Bookstore (Mr. Penumbra's 24-Hour Bookstore, #1)</title>
+  <title_without_series>Mr. Penumbra's 24-Hour Bookstore</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345089845l/13538873._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345089845l/13538873._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13538873-mr-penumbra-s-24-hour-bookstore</link>
+  <num_pages>288</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Farrar, Straus and Giroux</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.73</average_rating>
+  <ratings_count>193386</ratings_count>
+  <description>Global conspiracy, complex code-breaking, high-tech data visualization, young love, the secret to eternal life. Mostly in a hole-in-the-wall San Francisco bookstore. &lt;br /&gt;&lt;br /&gt;Clay Jannon tells how serendipity, sheer curiosity, and the ability to climb a ladder like a monkey has sent him from Web Drone to night shift at Mr. Penumbra’s 24-Hour Bookstore. After just a few days on the job, Clay realizes just how curious this store is. &lt;br /&gt;&lt;br /&gt;A few customers come in repeatedly without buying anything. Instead they “check out” obscure volumes from strange corners of the store. All runs according to some elaborate, long-standing arrangement with the gnomic Mr. Penumbra. The store must be a front for something larger, Clay concludes.&lt;br /&gt;&lt;br /&gt;He embarks on a complex analysis of the customers’ behavior and ropes in friends to help. Once they bring their findings to Mr. Penumbra, it turns out the secrets extend far outside the walls of the bookstore. A quest to New York City dips in a world conspiracy for eternal life. The current of romance pulls Clay onward.</description>
+<authors>
+<author>
+<id>2960227</id>
+<name>Robin Sloan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1524283679p5/2960227.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1524283679p2/2960227.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2960227.Robin_Sloan]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>258252</ratings_count>
+<text_reviews_count>37205</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>6736543</id>
+  <uri>kca://work/amzn1.gr.work.v1.W0QKAlr-QxaBeDobLtMnuA</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">516005151</id>
+          <page type="integer">254</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jul 27 08:45:00 -0700 2022</created_at>
+          <updated_at type="datetime">Wed Jul 27 08:45:00 -0700 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">88</percent>
+          <work_id type="integer">6736543</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">515779205</id>
+          <page type="integer">243</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jul 26 18:19:08 -0700 2022</created_at>
+          <updated_at type="datetime">Tue Jul 26 18:19:08 -0700 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">84</percent>
+          <work_id type="integer">6736543</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">497332672</id>
+          <page type="integer">215</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Jun 08 14:06:43 -0700 2022</created_at>
+          <updated_at type="datetime">Wed Jun 08 14:06:43 -0700 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">74</percent>
+          <work_id type="integer">6736543</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">481385389</id>
+          <page type="integer">147</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Apr 23 12:19:04 -0700 2022</created_at>
+          <updated_at type="datetime">Sat Apr 23 12:19:04 -0700 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">51</percent>
+          <work_id type="integer">6736543</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">472430979</id>
+          <page type="integer">110</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Mar 29 23:14:09 -0700 2022</created_at>
+          <updated_at type="datetime">Tue Mar 29 23:14:09 -0700 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">38</percent>
+          <work_id type="integer">6736543</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">471971965</id>
+          <page type="integer">98</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Mar 28 19:19:31 -0700 2022</created_at>
+          <updated_at type="datetime">Mon Mar 28 19:19:31 -0700 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">34</percent>
+          <work_id type="integer">6736543</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">471938711</id>
+          <page type="integer">82</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Mar 28 17:38:17 -0700 2022</created_at>
+          <updated_at type="datetime">Mon Mar 28 17:38:17 -0700 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">28</percent>
+          <work_id type="integer">6736543</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">470244577</id>
+          <page type="integer">22</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Mar 23 22:47:29 -0700 2022</created_at>
+          <updated_at type="datetime">Wed Mar 23 22:47:29 -0700 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">7</percent>
+          <work_id type="integer">6736543</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">469813586</id>
+          <page type="integer">11</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Mar 22 20:18:42 -0700 2022</created_at>
+          <updated_at type="datetime">Tue Mar 22 20:18:42 -0700 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">3</percent>
+          <work_id type="integer">6736543</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">5699224597</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Aug 03 11:43:34 -0700 2022</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">5326246708</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Mar 22 20:17:55 -0700 2022</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 20:17:55 -0700 2022</started_at>
+  <read_at>Wed Aug 03 11:43:34 -0700 2022</read_at>
+  <date_added>Tue Mar 22 20:17:54 -0700 2022</date_added>
+  <date_updated>Wed Aug 03 11:43:34 -0700 2022</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/4624632610]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/4624632610]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

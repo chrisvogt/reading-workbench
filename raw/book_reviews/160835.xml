@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[[REDACTED]]]></key>
+    <method><![CDATA[review_show_by_user_and_book]]></method>
+  </Request>
+      <review>
+  <id>439504028</id>
+    
+  <user>
+    <id>10454947</id>
+    <uri>kca://profile:goodreads/A1Q98DLDTWWXNH</uri>
+    <name>Chris</name>
+    <display_name>Chris Vogt</display_name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10454947-chris-vogt]]></link>
+
+    <image_url><![CDATA[https://images.gr-assets.com/users/1573542534p3/10454947.jpg]]></image_url>
+    <small_image_url><![CDATA[https://images.gr-assets.com/users/1573542534p2/10454947.jpg]]></small_image_url>
+    <has_image>true</has_image>
+
+  </user>
+
+    <book>
+  <id type="integer">160835</id>
+  <isbn>0743220862</isbn>
+  <isbn13>9780743220866</isbn13>
+  <text_reviews_count type="integer">31</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.0zbIHF7cJkdOPqpKbiuObw</uri>
+  <title>The Big Red Fez: How to Make Any Web Site Better</title>
+  <title_without_series>The Big Red Fez: How to Make Any Web Site Better</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/160835.The_Big_Red_Fez</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Free Press</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month/>
+  <average_rating>3.70</average_rating>
+  <ratings_count>438</ratings_count>
+  <description>According to the author, anyone building a website should think of every visitor as a monkey - in a big red fez. If the monkey can't find the banana, it is as good as gone. This book identifies the guiding principles behind creating websites that satisfy visitors and keep them coming back for more.</description>
+<authors>
+<author>
+<id>1791</id>
+<name>Seth Godin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1355799076p5/1791.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1355799076p2/1791.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1791.Seth_Godin]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>271486</ratings_count>
+<text_reviews_count>14307</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>906495</id>
+  <uri>kca://work/amzn1.gr.work.v1.V4M7VSmiZscUBf84oV1hTw</uri>
+</work></book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">19163737</id>
+          <page type="integer">27</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Oct 22 10:04:42 -0700 2012</created_at>
+          <updated_at type="datetime">Mon Oct 22 10:04:42 -0700 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">906495</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">19163734</id>
+          <page type="integer">27</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Oct 22 10:04:36 -0700 2012</created_at>
+          <updated_at type="datetime">Mon Aug 01 07:59:16 -0700 2022</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">8</percent>
+          <work_id type="integer">906495</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d448ddaaf74f484094fa26373de8d90e</note_uri>
+          <note_updated_at type="datetime">Mon Aug 01 07:59:16 -0700 2022</note_updated_at>
+          <body>107</body>
+        </user_status>
+        <user_status>
+          <id type="integer">19163726</id>
+          <page type="integer">27</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Oct 22 10:04:17 -0700 2012</created_at>
+          <updated_at type="datetime">Mon Oct 22 10:04:17 -0700 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">906495</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">45228800</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Jun 06 17:02:05 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34561990" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Oct 22 00:00:00 -0700 2012</started_at>
+  <read_at>Mon May 06 00:00:00 -0700 2013</read_at>
+  <date_added>Mon Oct 22 09:40:00 -0700 2012</date_added>
+  <date_updated>Thu Jun 06 17:02:15 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/439504028]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/439504028]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>
