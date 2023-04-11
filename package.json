@@ -18,7 +18,7 @@
     "node-fetch": "^3.2.10",
     "nodemon": "^2.0.19",
     "p-all": "^4.0.0",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.5.0"
   },
   "devDependencies": {
     "@azz/prettier-config": "^1.0.0",
